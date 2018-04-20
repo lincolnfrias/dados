@@ -1,0 +1,854 @@
+nome_mun,nome_meso,renocup,cpr,emp,p_agro,p_com,p_serv,p_transf,p_formal,popul,pib,porte
+Abadia dos Dourados,Triângulo Mineiro/Alto Paranaíba,920.1,36.21,0.2,37.9,7.97,26.86,18.48,41.97,6658,63672.215,pequenoI
+Abaeté,Central Mineira,930.85,20.69,1.88,22.08,17.33,40.06,7.37,55.37,22456,226324.643,pequenoII
+Abre Campo,Zona da Mata,685.72,26.49,1.22,45.8,10.74,31.92,3.31,35.42,13114,106813.97,pequenoI
+Acaiaca,Zona da Mata,646.71,17.84,0.0,25.16,9.24,41.87,4.88,47.42,3919,22440.227000000003,pequenoI
+Açucena,Vale do Rio Doce,514.6,19.39,1.14,41.22,5.69,29.89,3.31,39.24,10218,48966.306,pequenoI
+Água Boa,Vale do Rio Doce,511.49,21.38,1.63,57.58,6.63,23.31,2.34,25.14,15092,74170.031,pequenoI
+Água Comprida,Triângulo Mineiro/Alto Paranaíba,998.23,18.85,2.64,38.81,7.78,42.12,6.6,59.82,1997,79349.571,pequenoI
+Aguanil,Oeste de Minas,781.84,19.02,0.93,36.78,5.24,24.49,24.04,50.11,4039,29292.395,pequenoI
+Águas Formosas,Vale do Mucuri,640.97,25.55,3.08,34.92,15.6,35.16,4.83,28.9,18362,98201.235,pequenoI
+Águas Vermelhas,Norte de Minas,591.65,16.3,0.63,33.63,7.33,30.37,2.64,26.98,12696,132151.652,pequenoI
+Aimorés,Vale do Rio Doce,893.84,23.71,2.36,26.29,12.37,40.91,4.92,49.31,24786,254295.89800000002,pequenoII
+Aiuruoca,Sul/Sudoeste de Minas,734.85,21.17,1.85,36.35,9.9,35.66,6.04,38.02,6066,47132.389,pequenoI
+Alagoa,Sul/Sudoeste de Minas,558.92,36.19,1.37,54.15,7.87,30.5,2.0,27.72,2675,18592.288,pequenoI
+Albertina,Sul/Sudoeste de Minas,796.26,23.43,2.23,52.97,6.54,22.83,9.07,42.24,2899,30816.14,pequenoI
+Além Paraíba,Zona da Mata,1058.91,17.73,3.02,6.73,20.07,48.36,7.56,71.22,34233,564993.181,pequenoII
+Alfenas,Sul/Sudoeste de Minas,1229.94,17.43,3.17,11.93,17.36,47.82,9.22,68.87,73347,1284402.449,medioI
+Alfredo Vasconcelos,Campo das Vertentes,657.6,28.32,0.27,35.45,13.2,30.23,9.14,58.37,6075,43379.062000000005,pequenoI
+Almenara,Jequitinhonha,708.25,21.43,0.73,25.5,13.86,40.13,4.49,36.99,38452,264550.997,pequenoII
+Alpercata,Vale do Rio Doce,750.59,19.65,1.05,19.67,12.73,40.8,8.07,48.49,7123,39024.991,pequenoI
+Alpinópolis,Sul/Sudoeste de Minas,1029.25,23.52,2.19,29.99,14.9,30.86,6.85,47.67,18351,203287.60100000002,pequenoI
+Alterosa,Sul/Sudoeste de Minas,703.77,25.35,1.57,48.22,10.65,24.84,10.7,46.79,13675,108555.617,pequenoI
+Alto Caparaó,Zona da Mata,689.19,24.77,3.64,55.42,9.89,28.99,1.28,31.01,5238,38390.625,pequenoI
+Alto Rio Doce,Zona da Mata,460.95,25.46,1.01,46.32,6.41,29.88,3.6,29.64,12053,79308.308,pequenoI
+Alvarenga,Vale do Rio Doce,517.53,32.21,1.43,45.69,6.31,31.32,2.97,24.65,4429,21650.741,pequenoI
+Alvinópolis,Metropolitana de Belo Horizonte,709.74,20.01,0.64,30.15,11.88,31.0,14.45,54.83,15167,153923.255,pequenoI
+Alvorada de Minas,Metropolitana de Belo Horizonte,476.92,33.13,0.88,43.48,4.69,28.56,1.18,18.91,3526,21985.763,pequenoI
+Amparo do Serra,Zona da Mata,554.79,21.98,0.76,48.91,7.38,30.65,5.69,38.49,5036,24276.191000000003,pequenoI
+Andradas,Sul/Sudoeste de Minas,1020.58,24.38,2.13,33.96,10.26,29.54,16.38,54.97,37150,483673.24700000003,pequenoII
+Cachoeira de Pajeú,Jequitinhonha,442.04,12.27,0.91,38.64,15.67,33.62,2.17,24.51,8888,62464.58,pequenoI
+Andrelândia,Sul/Sudoeste de Minas,795.97,20.82,2.03,28.5,11.7,39.68,5.8,48.56,12098,97386.286,pequenoI
+Angelândia,Jequitinhonha,569.29,16.07,0.0,59.03,6.53,22.85,3.13,36.76,7998,44823.501,pequenoI
+Antônio Carlos,Campo das Vertentes,733.39,17.41,0.97,25.03,12.73,38.35,9.01,59.31,11094,104533.436,pequenoI
+Antônio Dias,Vale do Rio Doce,699.25,13.13,1.09,30.44,12.13,35.88,4.83,54.72,9544,76642.609,pequenoI
+Antônio Prado de Minas,Zona da Mata,739.9,20.61,1.3,38.5,7.04,37.73,6.31,43.72,1671,21125.689,pequenoI
+Araçaí,Metropolitana de Belo Horizonte,744.08,13.28,0.37,27.99,7.08,31.26,30.35,66.51,2243,32232.795,pequenoI
+Aracitaba,Zona da Mata,553.72,28.82,0.6,35.51,7.66,43.57,2.24,45.4,2058,12473.633,pequenoI
+Araçuaí,Jequitinhonha,751.04,23.22,1.83,30.38,11.54,35.41,6.81,45.46,35627,195413.46899999998,pequenoII
+Araguari,Triângulo Mineiro/Alto Paranaíba,1204.56,23.3,2.68,12.95,15.42,43.26,13.61,61.79,109297,2147788.685,medioII
+Arantina,Sul/Sudoeste de Minas,675.75,14.68,2.01,18.36,12.77,46.09,4.13,61.75,2820,26910.712000000003,pequenoI
+Araponga,Zona da Mata,489.93,63.81,0.4,73.61,3.37,17.76,1.65,17.35,8110,40660.467000000004,pequenoI
+Araporã,Triângulo Mineiro/Alto Paranaíba,1062.37,9.76,2.76,11.25,12.56,39.97,21.89,76.15,6136,996130.92,pequenoI
+Arapuá,Triângulo Mineiro/Alto Paranaíba,1093.67,30.19,0.25,41.05,6.78,30.72,13.45,44.81,2763,48849.887,pequenoI
+Araújos,Central Mineira,855.86,22.86,3.35,15.7,13.72,25.88,33.11,54.32,7845,116157.135,pequenoI
+Araxá,Triângulo Mineiro/Alto Paranaíba,1357.09,17.98,1.84,8.39,15.02,45.46,8.65,73.27,93153,2573182.641,medioI
+Arceburgo,Sul/Sudoeste de Minas,900.41,16.44,1.22,35.4,8.27,22.6,25.05,79.09,9467,174256.22699999998,pequenoI
+Arcos,Oeste de Minas,1085.82,18.68,1.51,7.52,15.1,39.31,20.49,69.73,36383,639615.6170000001,pequenoII
+Areado,Sul/Sudoeste de Minas,919.9,17.63,2.35,34.94,11.32,33.63,12.14,62.38,13685,121197.60800000001,pequenoI
+Argirita,Zona da Mata,626.57,17.98,0.41,23.38,10.85,35.91,18.68,48.88,2887,18995.083,pequenoI
+Aricanduva,Jequitinhonha,376.85,26.16,0.0,65.04,4.65,22.12,3.42,22.13,4752,22795.234,pequenoI
+Arinos,Noroeste de Minas,641.19,25.92,0.95,36.32,12.08,35.99,4.85,31.17,17586,125591.149,pequenoI
+Astolfo Dutra,Zona da Mata,821.97,17.67,1.85,9.12,11.0,27.12,42.68,65.68,13016,162260.22,pequenoI
+Ataléia,Vale do Mucuri,487.89,21.97,0.64,51.36,7.61,26.84,2.5,17.41,14410,70486.553,pequenoI
+Augusto de Lima,Central Mineira,614.16,16.44,1.16,36.29,12.67,34.27,4.23,45.06,4912,42408.498,pequenoI
+Baependi,Sul/Sudoeste de Minas,788.46,34.7,1.73,17.39,18.22,34.92,18.26,53.62,18097,149944.119,pequenoI
+Baldim,Metropolitana de Belo Horizonte,690.86,31.22,0.86,34.95,7.54,30.91,13.93,45.6,7865,60640.858,pequenoI
+Bambuí,Oeste de Minas,1074.46,23.61,1.92,23.02,13.57,41.61,7.24,55.61,22555,244317.145,pequenoII
+Bandeira,Jequitinhonha,448.5,30.61,0.88,52.69,5.8,30.57,1.85,25.61,4972,25101.912,pequenoI
+Bandeira do Sul,Sul/Sudoeste de Minas,829.38,17.88,1.84,21.99,6.72,22.87,29.92,60.87,5313,36834.256,pequenoI
+Barão de Cocais,Metropolitana de Belo Horizonte,935.0,18.42,1.45,5.54,12.81,37.64,7.36,70.6,28404,920143.265,pequenoII
+Barão de Monte Alto,Zona da Mata,621.39,18.25,0.51,29.91,16.84,31.35,11.23,44.82,5686,27267.175,pequenoI
+Barbacena,Campo das Vertentes,1181.13,20.0,2.1,7.51,17.33,51.63,6.93,70.61,124847,1578866.9130000002,medioII
+Barra Longa,Zona da Mata,520.18,16.89,0.0,47.58,6.95,33.17,1.87,30.84,6117,32527.262000000002,pequenoI
+Barroso,Campo das Vertentes,907.19,17.45,0.77,6.63,13.83,41.76,19.91,64.18,19509,264633.293,pequenoI
+Bela Vista de Minas,Metropolitana de Belo Horizonte,827.23,11.98,1.29,6.4,15.08,37.49,13.83,74.52,9999,115151.379,pequenoI
+Belmiro Braga,Zona da Mata,664.55,13.34,1.81,37.33,3.31,41.55,5.55,53.39,3366,30131.042,pequenoI
+Belo Horizonte,Metropolitana de Belo Horizonte,2034.94,20.31,2.76,0.49,15.92,59.26,9.15,74.62,2356435,59203074.086,grandeII
+Belo Oriente,Vale do Rio Doce,834.25,12.92,1.83,11.33,11.57,35.82,16.25,65.6,23272,1223910.0320000001,pequenoII
+Belo Vale,Metropolitana de Belo Horizonte,803.37,24.57,0.76,34.72,7.83,34.81,4.28,51.59,7526,61628.42,pequenoI
+Berilo,Jequitinhonha,476.14,13.33,0.26,53.25,5.4,27.18,1.67,42.67,12295,52979.754,pequenoI
+Bertópolis,Vale do Mucuri,480.44,21.82,0.16,48.53,6.48,32.22,2.92,15.94,4492,24369.699,pequenoI
+Berizal,Norte de Minas,455.65,12.62,0.7,50.94,7.86,28.25,6.51,35.35,4351,20962.028000000002,pequenoI
+Betim,Metropolitana de Belo Horizonte,1080.99,17.28,0.97,1.79,14.24,44.5,21.66,72.48,376682,23384913.444000002,medioII
+Bias Fortes,Zona da Mata,407.87,24.2,0.34,52.17,6.08,25.02,6.56,33.79,3790,20822.213,pequenoI
+Bicas,Zona da Mata,1038.38,23.21,2.23,7.12,15.65,44.75,17.3,64.04,13576,120559.895,pequenoI
+Biquinhas,Central Mineira,996.8,36.79,0.0,40.38,7.96,39.19,6.05,37.47,2630,21516.638,pequenoI
+Boa Esperança,Sul/Sudoeste de Minas,903.37,20.77,0.79,28.65,13.12,39.28,6.5,63.35,38314,427747.081,pequenoII
+Bocaina de Minas,Sul/Sudoeste de Minas,691.47,23.48,1.04,33.67,7.22,38.55,6.53,28.73,4980,40641.108,pequenoI
+Bocaiúva,Norte de Minas,792.71,21.48,2.13,27.19,13.23,34.15,13.11,53.09,46479,393255.1,pequenoII
+Bom Despacho,Central Mineira,1149.37,17.86,4.24,12.59,18.39,41.51,14.09,68.61,45489,630340.8489999999,pequenoII
+Bom Jardim de Minas,Sul/Sudoeste de Minas,668.24,21.89,2.13,25.91,14.23,40.5,5.68,49.95,6432,77839.643,pequenoI
+Bom Jesus da Penha,Sul/Sudoeste de Minas,910.68,30.51,1.58,54.31,6.56,25.22,3.66,36.03,3842,57108.803,pequenoI
+Bom Jesus do Amparo,Metropolitana de Belo Horizonte,672.55,18.27,1.64,31.63,10.13,42.1,3.77,51.24,5453,35971.977,pequenoI
+Bom Jesus do Galho,Vale do Rio Doce,571.85,21.5,0.53,48.65,9.83,27.5,3.17,39.33,15304,73893.20599999999,pequenoI
+Bom Repouso,Sul/Sudoeste de Minas,695.69,56.41,0.27,59.83,6.17,19.15,7.17,23.85,10415,71167.422,pequenoI
+Bom Sucesso,Oeste de Minas,901.14,18.11,1.61,37.57,13.0,33.22,4.42,57.54,17077,162874.012,pequenoI
+Bonfim,Metropolitana de Belo Horizonte,747.62,31.19,0.31,36.51,11.07,33.34,6.63,34.56,6775,42287.441,pequenoI
+Bonfinópolis de Minas,Noroeste de Minas,830.57,19.07,1.47,32.32,14.58,38.8,4.37,41.48,5782,89842.996,pequenoI
+Bonito de Minas,Norte de Minas,301.92,13.53,0.86,59.81,6.58,23.76,0.83,22.28,9639,33978.062000000005,pequenoI
+Borda da Mata,Sul/Sudoeste de Minas,972.68,32.92,2.49,20.59,11.18,27.23,28.36,51.21,17033,160878.253,pequenoI
+Botelhos,Sul/Sudoeste de Minas,981.16,25.29,1.52,51.43,8.57,26.75,3.57,53.11,14821,118635.43400000001,pequenoI
+Botumirim,Norte de Minas,360.58,14.38,0.67,56.94,5.26,25.82,2.22,36.34,6478,32339.167999999998,pequenoI
+Brasilândia de Minas,Noroeste de Minas,818.03,15.86,0.56,28.85,11.73,30.3,12.17,60.79,14123,102189.149,pequenoI
+Brasília de Minas,Norte de Minas,553.16,24.8,1.64,37.45,13.82,34.25,4.99,33.49,31050,159395.68099999998,pequenoII
+Brás Pires,Zona da Mata,404.85,22.13,0.75,51.25,7.97,27.49,4.29,25.64,4604,19658.134,pequenoI
+Braúnas,Vale do Rio Doce,567.53,15.16,0.33,43.77,6.13,33.85,2.49,35.86,5027,70862.87400000001,pequenoI
+Brazópolis,Sul/Sudoeste de Minas,743.27,27.52,1.29,34.23,10.92,29.35,15.63,48.53,14488,106645.985,pequenoI
+Brumadinho,Metropolitana de Belo Horizonte,1474.65,19.23,1.37,9.89,10.64,46.91,4.64,63.39,33754,1335180.09,pequenoII
+Bueno Brandão,Sul/Sudoeste de Minas,617.29,38.6,1.39,53.21,6.86,24.63,7.35,27.14,10837,78511.76,pequenoI
+Buenópolis,Central Mineira,767.33,23.87,3.51,33.31,10.67,35.86,3.63,51.12,10187,63642.342000000004,pequenoI
+Bugre,Vale do Rio Doce,573.72,14.1,0.83,41.95,7.16,28.17,5.89,31.5,3992,17386.703,pequenoI
+Buritis,Noroeste de Minas,888.63,19.66,1.72,30.95,13.93,36.78,4.36,38.42,22398,336348.55799999996,pequenoII
+Buritizeiro,Norte de Minas,624.18,16.41,0.97,36.34,15.4,29.33,8.44,58.61,26684,270278.577,pequenoII
+Cabeceira Grande,Noroeste de Minas,767.47,19.63,0.38,47.31,9.0,30.6,3.59,47.96,6433,111086.948,pequenoI
+Cabo Verde,Sul/Sudoeste de Minas,875.64,20.13,1.63,64.84,5.17,18.47,2.06,59.68,13635,133285.704,pequenoI
+Cachoeira da Prata,Metropolitana de Belo Horizonte,856.44,20.22,0.75,4.92,12.8,42.17,17.5,61.38,3651,31706.357000000004,pequenoI
+Cachoeira de Minas,Sul/Sudoeste de Minas,731.24,30.06,0.85,42.08,8.15,22.85,14.92,49.6,10994,122947.11,pequenoI
+Cachoeira Dourada,Triângulo Mineiro/Alto Paranaíba,996.24,10.67,0.0,15.83,3.59,60.29,5.11,73.24,2497,42321.099,pequenoI
+Caetanópolis,Metropolitana de Belo Horizonte,815.5,18.39,1.21,14.27,12.6,34.99,19.7,64.85,10192,148501.97699999998,pequenoI
+Caeté,Metropolitana de Belo Horizonte,987.52,15.56,0.9,8.93,12.47,45.54,10.61,70.63,40470,317354.348,pequenoII
+Caiana,Zona da Mata,591.79,19.31,2.21,64.27,4.79,22.93,2.44,30.98,4961,38519.633,pequenoI
+Cajuri,Zona da Mata,509.66,11.38,0.0,39.97,6.49,34.87,2.19,42.36,4042,30965.055,pequenoI
+Caldas,Sul/Sudoeste de Minas,838.08,32.86,1.12,39.07,8.6,29.34,8.62,40.24,13541,128849.37400000001,pequenoI
+Camacho,Oeste de Minas,683.56,23.94,1.77,62.02,5.01,24.55,5.44,30.48,3151,21713.386000000002,pequenoI
+Camanducaia,Sul/Sudoeste de Minas,1193.9,21.06,1.04,19.25,9.04,37.57,14.34,49.21,20847,354581.075,pequenoII
+Cambuí,Sul/Sudoeste de Minas,966.41,24.94,2.12,14.54,13.42,33.57,25.68,63.46,26363,471269.619,pequenoII
+Cambuquira,Sul/Sudoeste de Minas,816.35,18.46,2.86,31.68,11.58,38.02,10.03,57.95,12475,133037.491,pequenoI
+Campanário,Vale do Rio Doce,684.8,13.95,0.55,29.04,11.41,39.43,0.9,35.51,3552,28411.225,pequenoI
+Campanha,Sul/Sudoeste de Minas,1021.62,21.9,3.02,33.56,11.11,29.17,18.2,55.16,15304,164583.091,pequenoI
+Campestre,Sul/Sudoeste de Minas,971.33,39.1,1.93,54.04,8.08,22.72,7.48,36.22,20546,204026.276,pequenoII
+Campina Verde,Triângulo Mineiro/Alto Paranaíba,1037.6,22.78,2.89,28.8,10.36,38.07,7.5,50.77,18796,283776.166,pequenoI
+Campo Azul,Norte de Minas,332.99,16.36,0.14,48.96,4.96,33.5,5.22,20.08,3664,19094.234,pequenoI
+Campo Belo,Oeste de Minas,997.31,22.93,1.9,13.05,18.24,38.46,17.86,62.95,51235,524701.386,medioI
+Campo do Meio,Sul/Sudoeste de Minas,709.35,19.67,1.72,48.22,9.16,28.09,6.74,55.77,11382,78465.129,pequenoI
+Campo Florido,Triângulo Mineiro/Alto Paranaíba,1400.9,19.23,1.59,43.97,7.02,29.66,12.68,68.87,6796,205509.962,pequenoI
+Campos Altos,Triângulo Mineiro/Alto Paranaíba,949.13,17.81,0.14,46.23,10.53,30.71,3.69,57.79,14151,170940.55800000002,pequenoI
+Campos Gerais,Sul/Sudoeste de Minas,744.47,18.93,1.23,57.93,7.56,25.34,3.8,43.49,27443,282617.482,pequenoII
+Canaã,Zona da Mata,614.4,33.15,1.5,56.45,6.98,20.26,12.78,22.5,4604,36360.292,pequenoI
+Canápolis,Triângulo Mineiro/Alto Paranaíba,1105.82,15.97,1.14,28.52,10.13,30.54,21.65,58.58,11307,208976.181,pequenoI
+Cana Verde,Oeste de Minas,672.07,18.6,0.94,39.47,8.89,29.08,10.42,52.91,5546,41113.705,pequenoI
+Candeias,Oeste de Minas,792.41,26.08,1.89,43.43,10.69,26.27,9.23,45.69,14484,128160.76699999999,pequenoI
+Cantagalo,Vale do Rio Doce,549.65,8.43,1.1,38.39,6.43,35.65,8.91,30.99,4186,21138.053,pequenoI
+Caparaó,Zona da Mata,581.38,17.3,1.11,67.91,8.14,19.6,1.3,27.04,5200,46432.166,pequenoI
+Capela Nova,Campo das Vertentes,440.12,23.65,0.81,48.71,11.6,24.83,5.59,29.55,4742,24541.805,pequenoI
+Capelinha,Jequitinhonha,732.19,17.55,1.45,36.8,14.86,32.87,5.52,43.39,34552,256075.799,pequenoII
+Capetinga,Sul/Sudoeste de Minas,858.46,19.3,1.18,47.09,9.29,24.5,9.53,51.46,6983,59623.698,pequenoI
+Capim Branco,Metropolitana de Belo Horizonte,814.07,16.56,0.88,11.37,10.53,37.21,20.91,69.79,8839,62321.903,pequenoI
+Capinópolis,Triângulo Mineiro/Alto Paranaíba,1557.01,15.17,2.46,21.44,12.81,36.38,21.37,66.49,15192,206239.565,pequenoI
+Capitão Andrade,Vale do Rio Doce,591.6,21.61,0.68,41.0,9.49,30.91,3.96,28.39,4919,25713.563,pequenoI
+Capitão Enéas,Norte de Minas,613.16,15.93,0.48,30.37,10.71,35.37,11.35,47.28,14169,155584.646,pequenoI
+Capitólio,Sul/Sudoeste de Minas,972.07,24.06,2.3,21.51,10.92,42.9,9.65,56.49,8110,106156.531,pequenoI
+Caputira,Zona da Mata,433.03,22.73,0.78,67.44,6.57,19.83,1.72,29.17,9023,47658.974,pequenoI
+Caraí,Jequitinhonha,399.36,21.92,0.4,51.25,6.4,25.33,3.18,25.67,22175,100764.75,pequenoII
+Caranaíba,Campo das Vertentes,488.45,16.68,0.0,44.17,9.0,29.86,2.07,40.93,3285,15434.886,pequenoI
+Carandaí,Campo das Vertentes,823.06,20.89,2.4,23.77,13.7,35.61,10.74,57.95,23270,397736.349,pequenoII
+Carangola,Zona da Mata,873.57,23.05,2.74,21.71,14.58,44.87,7.73,53.96,32065,291208.95399999997,pequenoII
+Caratinga,Vale do Rio Doce,1031.55,26.36,2.28,17.73,20.7,42.48,6.22,59.71,84526,859125.324,medioI
+Carbonita,Jequitinhonha,567.38,14.88,1.51,43.3,8.58,35.31,3.32,47.18,9122,52832.27099999999,pequenoI
+Careaçu,Sul/Sudoeste de Minas,818.55,19.02,1.76,32.97,9.58,29.47,14.94,62.97,6249,69178.442,pequenoI
+Carlos Chagas,Vale do Mucuri,823.24,19.5,1.31,31.52,14.86,36.09,5.56,51.07,19975,254136.555,pequenoI
+Carmésia,Vale do Rio Doce,706.05,13.96,2.34,28.99,6.5,49.51,1.41,45.43,2437,14838.317,pequenoI
+Carmo da Cachoeira,Sul/Sudoeste de Minas,822.31,12.26,0.77,47.49,7.77,26.25,6.53,69.15,11673,116838.21,pequenoI
+Carmo da Mata,Oeste de Minas,813.46,17.82,1.03,22.57,10.04,30.78,23.81,63.61,10844,90425.636,pequenoI
+Carmo de Minas,Sul/Sudoeste de Minas,823.88,13.57,1.36,31.28,9.43,37.8,7.42,70.94,13656,99879.09199999999,pequenoI
+Carmo do Cajuru,Oeste de Minas,860.32,20.46,1.66,19.2,12.61,33.61,23.55,65.32,19937,227890.527,pequenoI
+Carmo do Paranaíba,Triângulo Mineiro/Alto Paranaíba,1074.64,22.09,1.62,30.82,14.65,33.86,7.97,54.85,29357,359631.479,pequenoII
+Carmo do Rio Claro,Sul/Sudoeste de Minas,981.54,32.79,1.59,41.24,9.58,27.5,8.46,51.98,20308,222871.307,pequenoII
+Carmópolis de Minas,Oeste de Minas,929.82,22.67,1.3,23.05,9.36,30.88,17.18,53.32,16952,202127.36399999997,pequenoI
+Carneirinho,Triângulo Mineiro/Alto Paranaíba,1036.49,18.01,2.16,29.47,9.34,31.75,16.93,62.45,9416,167392.828,pequenoI
+Carrancas,Campo das Vertentes,926.11,22.68,2.15,32.46,8.14,40.42,5.3,46.7,3873,32866.516,pequenoI
+Carvalhópolis,Sul/Sudoeste de Minas,855.9,40.25,4.1,46.2,9.78,25.02,11.45,48.99,3327,31064.857000000004,pequenoI
+Carvalhos,Sul/Sudoeste de Minas,816.45,28.56,2.14,45.71,11.86,27.25,4.78,27.31,4526,26796.655,pequenoI
+Casa Grande,Metropolitana de Belo Horizonte,620.7,17.13,0.22,43.36,4.27,38.53,2.22,52.88,2244,20478.365,pequenoI
+Cascalho Rico,Triângulo Mineiro/Alto Paranaíba,1127.49,30.19,1.36,55.75,7.34,28.82,5.15,46.66,2838,32333.959,pequenoI
+Cássia,Sul/Sudoeste de Minas,1094.15,17.78,1.99,31.17,9.99,33.35,14.0,55.61,17316,190153.00699999998,pequenoI
+Conceição da Barra de Minas,Campo das Vertentes,788.41,20.25,0.6,44.42,5.79,30.7,4.56,45.75,3919,23636.865,pequenoI
+Cataguases,Zona da Mata,1058.56,18.77,1.43,5.31,17.78,44.03,19.55,71.31,69329,1015919.19,medioI
+Catas Altas,Metropolitana de Belo Horizonte,871.75,17.99,0.16,12.46,9.77,37.48,2.08,67.76,4829,297630.938,pequenoI
+Catas Altas da Noruega,Metropolitana de Belo Horizonte,509.37,22.26,1.77,40.67,7.9,32.47,1.78,36.1,3459,14708.822,pequenoI
+Catuji,Vale do Mucuri,424.44,17.77,0.71,52.47,5.07,24.36,4.0,22.2,6670,34616.116,pequenoI
+Catuti,Norte de Minas,438.76,18.65,0.88,45.95,7.49,31.66,3.01,29.85,5071,23889.641,pequenoI
+Caxambu,Sul/Sudoeste de Minas,1459.4,20.99,2.75,7.89,16.66,53.32,7.28,70.2,21489,198694.81100000002,pequenoII
+Cedro do Abaeté,Central Mineira,638.99,17.39,0.5,40.96,5.26,44.41,4.13,35.08,1210,9627.526,pequenoI
+Central de Minas,Vale do Rio Doce,1036.71,30.8,1.3,23.86,13.35,39.69,4.38,31.83,6764,38445.761,pequenoI
+Centralina,Triângulo Mineiro/Alto Paranaíba,802.95,22.3,0.09,20.24,10.44,41.03,9.42,47.33,10246,92196.19699999999,pequenoI
+Chácara,Zona da Mata,733.67,25.76,1.11,27.47,12.21,39.44,5.08,59.31,2787,23414.071,pequenoI
+Chalé,Zona da Mata,585.51,32.7,1.55,53.2,7.08,27.46,4.67,29.69,5588,30375.391,pequenoI
+Chapada do Norte,Jequitinhonha,523.17,5.46,0.0,53.5,4.49,29.53,6.87,63.76,15179,53142.176,pequenoI
+Chapada Gaúcha,Norte de Minas,473.08,15.56,0.57,52.27,6.22,29.8,2.58,26.38,10640,74931.504,pequenoI
+Chiador,Zona da Mata,798.26,21.71,0.42,20.65,8.09,45.11,7.75,63.33,2747,23844.653,pequenoI
+Cipotânea,Zona da Mata,421.17,48.8,0.78,43.12,9.78,23.51,17.66,27.25,6519,27421.216,pequenoI
+Claraval,Sul/Sudoeste de Minas,938.54,31.55,1.16,40.55,5.08,22.21,23.46,40.09,4524,52246.649000000005,pequenoI
+Claro dos Poções,Norte de Minas,462.89,19.07,1.04,51.6,7.88,26.41,6.81,32.7,7775,44926.132000000005,pequenoI
+Cláudio,Oeste de Minas,950.31,16.39,3.62,11.69,11.11,29.7,31.66,72.75,25500,321375.087,pequenoII
+Coimbra,Zona da Mata,703.71,34.53,1.42,38.81,10.87,31.46,8.19,44.76,7017,58386.037000000004,pequenoI
+Coluna,Vale do Rio Doce,479.62,20.09,0.14,54.38,6.65,27.47,3.64,20.47,8953,40787.63,pequenoI
+Comendador Gomes,Triângulo Mineiro/Alto Paranaíba,947.9,26.3,1.32,43.65,4.62,25.49,3.65,57.22,2967,76787.741,pequenoI
+Comercinho,Jequitinhonha,363.03,17.22,0.35,55.97,5.33,23.01,5.25,22.96,8289,39108.159,pequenoI
+Conceição da Aparecida,Sul/Sudoeste de Minas,907.86,36.41,1.51,59.21,6.9,24.64,3.32,33.8,9757,100777.288,pequenoI
+Conceição das Pedras,Sul/Sudoeste de Minas,740.93,43.89,0.46,62.42,6.18,25.35,1.59,35.88,2746,24352.187,pequenoI
+Conceição das Alagoas,Triângulo Mineiro/Alto Paranaíba,1391.07,14.95,3.29,16.86,10.3,34.27,25.54,63.42,22675,490189.545,pequenoII
+Conceição de Ipanema,Vale do Rio Doce,741.03,28.39,0.84,61.49,6.14,22.94,4.35,28.86,4441,23510.787999999997,pequenoI
+Conceição do Mato Dentro,Metropolitana de Belo Horizonte,631.39,22.29,1.3,33.34,8.29,35.63,3.02,39.07,17835,155894.568,pequenoI
+Conceição do Pará,Oeste de Minas,856.2,17.36,0.48,23.25,6.35,34.34,20.51,59.66,5134,159511.094,pequenoI
+Conceição do Rio Verde,Sul/Sudoeste de Minas,712.5,14.88,0.93,40.53,11.5,31.14,7.36,65.36,12840,111534.35800000001,pequenoI
+Conceição dos Ouros,Sul/Sudoeste de Minas,817.9,22.04,1.55,15.67,10.22,25.7,36.37,59.73,10343,116202.435,pequenoI
+Cônego Marinho,Norte de Minas,313.13,11.1,0.48,55.21,4.12,24.83,3.78,25.77,7101,29366.925,pequenoI
+Confins,Metropolitana de Belo Horizonte,945.6,18.1,0.41,8.25,10.33,54.08,11.93,72.49,5908,581144.846,pequenoI
+Congonhal,Sul/Sudoeste de Minas,850.6,25.58,1.54,27.03,12.03,29.17,22.15,45.63,10348,107961.914,pequenoI
+Congonhas,Metropolitana de Belo Horizonte,1282.65,15.23,0.63,2.98,11.23,44.38,6.55,77.9,48442,1922673.6809999999,pequenoII
+Congonhas do Norte,Metropolitana de Belo Horizonte,507.78,13.43,0.23,37.87,10.58,31.13,0.26,34.32,4927,21024.92,pequenoI
+Conquista,Triângulo Mineiro/Alto Paranaíba,1086.44,13.84,1.2,24.04,8.21,37.4,22.85,72.22,6477,117839.31800000001,pequenoI
+Conselheiro Lafaiete,Metropolitana de Belo Horizonte,1197.28,18.22,2.17,3.52,16.43,43.16,12.84,72.48,116043,1129940.656,medioII
+Conselheiro Pena,Vale do Rio Doce,766.13,26.57,2.51,30.79,13.25,36.16,6.23,39.1,22044,159757.49599999998,pequenoII
+Consolação,Sul/Sudoeste de Minas,534.51,28.35,0.2,59.88,3.81,22.17,7.1,31.93,1708,12519.573999999999,pequenoI
+Contagem,Metropolitana de Belo Horizonte,1237.3,19.47,1.47,0.95,18.2,46.44,15.97,72.54,600466,19142636.355,grandeI
+Coqueiral,Sul/Sudoeste de Minas,714.57,19.94,2.21,53.59,11.26,24.72,3.99,57.65,9258,80683.637,pequenoI
+Coração de Jesus,Norte de Minas,396.8,26.97,1.18,45.91,9.54,28.4,7.18,20.27,25906,128518.679,pequenoII
+Cordisburgo,Metropolitana de Belo Horizonte,684.21,25.55,0.69,32.07,10.06,36.99,6.56,45.36,8633,53759.244000000006,pequenoI
+Cordislândia,Sul/Sudoeste de Minas,765.95,17.29,0.73,58.37,5.03,24.64,3.2,53.68,3367,31907.074,pequenoI
+Corinto,Central Mineira,789.88,21.51,1.03,18.98,17.6,39.61,7.7,56.29,23774,163944.624,pequenoII
+Coroaci,Vale do Rio Doce,560.79,17.06,0.76,35.7,10.02,33.65,1.5,28.84,10248,54097.099,pequenoI
+Coromandel,Triângulo Mineiro/Alto Paranaíba,1161.31,22.8,2.18,34.1,14.21,32.05,5.57,50.55,27290,479056.44700000004,pequenoII
+Coronel Fabriciano,Vale do Rio Doce,1146.15,17.21,1.71,1.99,17.52,41.82,19.76,69.22,103319,920040.1059999999,medioII
+Coronel Murta,Jequitinhonha,404.26,23.28,1.68,45.6,9.51,24.22,2.67,32.9,9083,42341.062000000005,pequenoI
+Coronel Pacheco,Zona da Mata,743.94,18.17,0.38,24.31,9.69,45.17,8.25,61.72,2973,21770.541,pequenoI
+Coronel Xavier Chaves,Campo das Vertentes,864.07,24.35,2.06,24.43,14.31,35.85,8.51,49.5,3301,28638.246,pequenoI
+Córrego Danta,Oeste de Minas,813.17,18.74,2.35,47.01,6.93,31.39,2.29,42.08,3362,43984.327000000005,pequenoI
+Córrego do Bom Jesus,Sul/Sudoeste de Minas,649.03,43.79,0.7,38.29,7.77,34.54,9.75,36.46,3725,18680.435,pequenoI
+Córrego Fundo,Oeste de Minas,801.64,17.52,2.37,19.0,8.19,28.4,25.69,62.37,5761,111350.03,pequenoI
+Córrego Novo,Vale do Rio Doce,577.46,18.05,1.02,49.82,5.39,36.93,1.04,58.24,3127,21259.912,pequenoI
+Couto de Magalhães de Minas,Jequitinhonha,659.41,21.23,0.91,13.68,12.96,48.85,3.82,58.73,4177,26318.033,pequenoI
+Crisólita,Vale do Mucuri,537.82,18.87,0.53,58.32,4.14,22.91,1.99,18.81,6036,29482.886000000002,pequenoI
+Cristais,Oeste de Minas,1166.16,17.03,1.03,32.69,8.13,17.19,35.92,55.67,11217,91474.587,pequenoI
+Cristália,Norte de Minas,364.26,6.66,0.17,55.98,3.53,25.32,2.84,31.54,5725,28155.005,pequenoI
+Cristiano Otoni,Metropolitana de Belo Horizonte,795.99,24.93,0.88,20.07,15.56,37.84,5.99,54.95,5004,41386.46,pequenoI
+Cristina,Sul/Sudoeste de Minas,719.12,27.75,1.28,34.24,7.55,31.02,16.71,41.7,10122,92542.004,pequenoI
+Crucilândia,Metropolitana de Belo Horizonte,675.5,34.84,2.2,36.13,13.05,32.21,8.5,44.14,4744,31861.767000000003,pequenoI
+Cruzeiro da Fortaleza,Triângulo Mineiro/Alto Paranaíba,1328.28,20.43,0.0,52.7,7.17,27.4,4.93,51.57,3934,41280.669,pequenoI
+Cruzília,Sul/Sudoeste de Minas,869.3,19.55,3.1,21.81,14.96,37.32,12.03,56.32,14547,105049.161,pequenoI
+Cuparaque,Vale do Rio Doce,672.61,22.0,0.83,32.4,10.21,36.85,3.64,34.99,4651,25568.481,pequenoI
+Curral de Dentro,Norte de Minas,584.83,15.63,1.76,28.67,11.63,34.84,4.97,33.47,6894,38169.162000000004,pequenoI
+Curvelo,Central Mineira,923.27,18.46,2.08,16.01,17.94,43.66,9.05,62.57,73637,800196.772,medioI
+Datas,Jequitinhonha,468.57,19.24,0.25,45.22,7.79,26.65,6.18,39.87,5198,25427.234,pequenoI
+Delfim Moreira,Sul/Sudoeste de Minas,702.06,26.64,1.78,38.65,10.09,29.63,9.13,44.63,7943,50817.42,pequenoI
+Delfinópolis,Sul/Sudoeste de Minas,1104.61,20.54,0.42,17.03,8.1,38.15,16.44,53.78,6786,87556.369,pequenoI
+Delta,Triângulo Mineiro/Alto Paranaíba,1032.36,7.56,0.08,8.53,4.85,23.64,46.37,84.31,7836,235187.147,pequenoI
+Descoberto,Zona da Mata,701.07,18.47,3.77,10.24,11.51,30.24,38.2,61.26,4751,36998.051,pequenoI
+Desterro de Entre Rios,Metropolitana de Belo Horizonte,533.75,25.13,0.0,44.87,9.58,29.83,2.7,33.99,6974,38513.181000000004,pequenoI
+Desterro do Melo,Campo das Vertentes,459.98,30.45,0.0,52.73,10.84,26.88,2.13,34.88,2979,20585.822,pequenoI
+Diamantina,Jequitinhonha,931.4,15.14,2.87,13.78,14.39,50.32,3.62,59.91,45453,381948.43,pequenoII
+Diogo de Vasconcelos,Metropolitana de Belo Horizonte,445.37,20.09,1.04,55.85,6.71,24.07,1.57,30.68,3842,20119.27,pequenoI
+Dionísio,Metropolitana de Belo Horizonte,731.38,20.49,1.21,33.13,10.6,29.82,11.08,54.7,8720,41651.193,pequenoI
+Divinésia,Zona da Mata,693.81,22.15,2.31,26.24,6.33,31.95,28.6,52.42,3289,23020.856,pequenoI
+Divino,Zona da Mata,614.86,32.72,2.61,54.15,10.27,23.29,5.74,29.26,18917,113315.898,pequenoI
+Divino das Laranjeiras,Vale do Rio Doce,625.2,26.15,0.67,34.12,9.76,39.49,3.17,35.83,4933,25699.867000000002,pequenoI
+Divinolândia de Minas,Vale do Rio Doce,522.23,14.85,1.96,33.66,9.46,33.87,4.44,32.16,7010,30201.76,pequenoI
+Divinópolis,Oeste de Minas,1289.92,23.21,2.92,3.04,18.16,43.88,20.56,71.69,211866,3417488.595,medioII
+Divisa Alegre,Norte de Minas,656.8,21.84,1.25,15.43,18.95,44.19,5.19,42.46,5863,53488.592000000004,pequenoI
+Divisa Nova,Sul/Sudoeste de Minas,784.86,18.29,1.26,58.87,6.74,23.75,3.47,61.3,5727,47038.922999999995,pequenoI
+Divisópolis,Jequitinhonha,487.15,20.27,1.28,48.93,9.9,30.09,1.78,31.04,8937,42083.015999999996,pequenoI
+Dom Bosco,Noroeste de Minas,632.04,20.51,0.75,52.88,4.25,30.93,6.59,35.59,3795,28359.197,pequenoI
+Dom Cavati,Vale do Rio Doce,712.81,25.89,2.05,15.96,15.92,45.18,7.05,42.53,5181,27701.884,pequenoI
+Dom Joaquim,Metropolitana de Belo Horizonte,474.73,20.38,0.17,42.03,7.14,33.76,0.97,29.93,4515,26465.601000000002,pequenoI
+Dom Silvério,Zona da Mata,663.21,18.81,3.14,24.41,15.54,34.87,15.55,50.64,5158,48993.907,pequenoI
+Dom Viçoso,Sul/Sudoeste de Minas,612.93,36.71,0.98,46.37,7.54,30.6,10.31,38.9,2992,16349.146999999999,pequenoI
+Dona Eusébia,Zona da Mata,820.09,24.13,1.72,13.52,28.84,27.04,25.77,50.36,5981,35993.852,pequenoI
+Dores de Campos,Campo das Vertentes,850.18,19.82,4.95,3.78,12.3,24.01,50.51,60.65,9246,110621.04400000001,pequenoI
+Dores de Guanhães,Vale do Rio Doce,581.87,13.57,1.48,34.71,7.91,36.23,1.71,40.88,5213,31432.798,pequenoI
+Dores do Indaiá,Central Mineira,958.07,19.44,2.74,22.9,14.94,38.19,9.24,51.54,13677,121479.946,pequenoI
+Dores do Turvo,Zona da Mata,582.14,19.93,2.64,49.48,10.44,27.39,4.91,31.6,4441,20679.756,pequenoI
+Doresópolis,Oeste de Minas,714.18,28.12,0.2,44.82,10.84,30.91,4.59,47.34,1437,15348.695,pequenoI
+Douradoquara,Triângulo Mineiro/Alto Paranaíba,777.14,22.79,0.7,36.91,6.91,31.13,4.73,33.72,1839,26723.815,pequenoI
+Durandé,Zona da Mata,630.53,22.33,0.93,57.16,5.54,19.87,13.92,24.16,7417,49010.768,pequenoI
+Elói Mendes,Sul/Sudoeste de Minas,921.97,18.97,1.36,31.12,12.47,34.04,8.28,57.94,25125,312673.488,pequenoII
+Engenheiro Caldas,Vale do Rio Doce,794.75,23.26,0.9,24.92,13.15,38.15,11.34,45.92,10275,65096.2,pequenoI
+Engenheiro Navarro,Norte de Minas,570.57,17.58,0.81,45.44,7.57,30.41,6.91,46.88,7065,39323.773,pequenoI
+Entre Folhas,Vale do Rio Doce,580.82,20.05,0.17,43.69,11.8,29.42,4.51,33.4,5168,25126.246,pequenoI
+Entre Rios de Minas,Metropolitana de Belo Horizonte,908.89,24.31,2.43,20.19,11.71,39.09,5.61,57.44,14147,98117.02,pequenoI
+Ervália,Zona da Mata,613.35,24.46,2.01,52.89,9.07,24.05,6.19,32.99,17889,150990.051,pequenoI
+Esmeraldas,Metropolitana de Belo Horizonte,790.23,16.49,0.78,9.08,15.34,44.39,10.57,63.73,59853,325445.957,medioI
+Espera Feliz,Zona da Mata,733.1,17.42,5.47,46.48,12.37,28.72,3.67,39.07,22714,180098.996,pequenoII
+Espinosa,Norte de Minas,445.72,23.41,0.84,37.91,14.76,26.19,10.04,31.79,30924,149107.535,pequenoII
+Espírito Santo do Dourado,Sul/Sudoeste de Minas,632.11,33.41,0.29,54.73,6.0,18.54,15.77,38.77,4426,32955.867999999995,pequenoI
+Estiva,Sul/Sudoeste de Minas,767.93,44.65,1.32,59.34,11.68,17.33,4.66,31.47,10845,140890.101,pequenoI
+Estrela Dalva,Zona da Mata,1177.29,15.29,1.83,29.46,6.45,45.73,5.25,53.52,2470,17339.214,pequenoI
+Estrela do Indaiá,Central Mineira,864.29,14.34,0.95,38.37,7.79,40.0,2.76,54.45,3473,51086.382000000005,pequenoI
+Estrela do Sul,Triângulo Mineiro/Alto Paranaíba,881.48,18.04,0.25,48.27,8.52,28.79,4.35,62.27,7383,452050.297,pequenoI
+Eugenópolis,Zona da Mata,681.01,22.76,1.52,30.51,10.09,27.28,21.2,50.39,10467,69131.97099999999,pequenoI
+Ewbank da Câmara,Zona da Mata,720.35,16.36,0.0,6.92,9.88,47.43,11.57,72.34,3725,21748.351000000002,pequenoI
+Extrema,Sul/Sudoeste de Minas,1081.48,16.92,1.14,6.85,11.22,35.02,31.7,72.26,28466,1884763.511,pequenoII
+Fama,Sul/Sudoeste de Minas,798.61,24.37,0.65,39.73,9.85,32.74,1.41,47.3,2324,27423.304,pequenoI
+Faria Lemos,Zona da Mata,751.83,25.48,1.94,43.81,9.07,36.04,3.6,54.7,3363,27357.155,pequenoI
+Felício dos Santos,Jequitinhonha,335.55,23.81,0.31,49.47,9.77,31.03,1.86,29.55,5131,24537.722999999998,pequenoI
+São Gonçalo do Rio Preto,Jequitinhonha,469.53,14.68,0.69,34.32,5.68,42.22,3.67,44.22,3043,17265.36,pequenoI
+Felisburgo,Jequitinhonha,470.07,20.85,0.52,38.53,9.19,42.09,2.48,25.4,6746,33087.965,pequenoI
+Felixlândia,Central Mineira,724.56,20.55,1.13,34.96,12.98,33.65,4.97,50.0,14006,186493.592,pequenoI
+Fernandes Tourinho,Vale do Rio Doce,561.96,22.67,0.18,40.67,12.28,33.83,2.44,36.7,3027,18080.721999999998,pequenoI
+Ferros,Metropolitana de Belo Horizonte,598.5,16.31,1.08,47.4,8.8,30.6,3.01,38.66,10764,63308.038,pequenoI
+Fervedouro,Zona da Mata,483.57,25.94,1.14,55.25,9.82,27.43,1.61,28.88,10296,55424.519,pequenoI
+Florestal,Metropolitana de Belo Horizonte,974.97,16.8,1.97,26.73,10.01,41.42,10.39,56.03,6571,51734.27,pequenoI
+Formiga,Oeste de Minas,1151.02,20.85,2.2,10.85,18.59,37.93,18.1,66.06,64484,879186.003,medioI
+Formoso,Noroeste de Minas,711.48,22.05,1.47,42.12,12.03,32.43,2.23,31.12,8062,80369.57400000001,pequenoI
+Fortaleza de Minas,Sul/Sudoeste de Minas,865.98,16.15,0.66,31.33,6.88,29.11,7.18,63.33,4062,271615.715,pequenoI
+Fortuna de Minas,Metropolitana de Belo Horizonte,700.77,14.2,0.61,23.84,2.86,42.81,7.68,56.02,2695,21282.674,pequenoI
+Francisco Badaró,Jequitinhonha,343.91,13.93,0.74,65.46,6.5,20.55,2.72,32.42,10211,34737.003,pequenoI
+Francisco Dumont,Norte de Minas,519.05,22.61,1.49,43.6,12.88,26.97,3.12,35.4,4836,29193.923,pequenoI
+Francisco Sá,Norte de Minas,621.52,17.1,1.04,39.41,11.49,33.14,3.01,35.72,24439,150876.281,pequenoII
+Franciscópolis,Vale do Mucuri,478.99,28.15,0.8,60.26,5.89,21.5,2.36,17.74,5790,26175.672000000002,pequenoI
+Frei Gaspar,Vale do Mucuri,447.47,15.95,0.6,56.84,5.37,28.12,2.65,27.71,5854,31229.91,pequenoI
+Frei Inocêncio,Vale do Rio Doce,666.37,17.19,1.04,20.39,16.46,43.79,4.86,39.19,8667,50275.125,pequenoI
+Frei Lagonegro,Vale do Rio Doce,356.81,18.56,0.3,58.6,2.75,30.85,0.87,24.62,3319,15063.98,pequenoI
+Fronteira,Triângulo Mineiro/Alto Paranaíba,993.39,15.59,0.24,19.73,8.35,33.84,19.9,65.6,13898,808504.594,pequenoI
+Fronteira dos Vales,Vale do Mucuri,466.26,23.63,0.75,45.31,6.38,39.08,2.38,27.87,4676,20574.47,pequenoI
+Fruta de Leite,Norte de Minas,326.59,6.24,0.12,64.37,2.23,24.25,1.23,32.77,5928,22844.612,pequenoI
+Frutal,Triângulo Mineiro/Alto Paranaíba,1248.61,23.7,2.2,18.98,17.3,37.38,13.23,61.84,53170,775520.923,medioI
+Funilândia,Metropolitana de Belo Horizonte,630.3,15.9,0.0,24.53,7.97,36.81,5.92,48.93,3783,26613.455,pequenoI
+Galiléia,Vale do Rio Doce,789.25,19.23,2.99,24.8,9.7,40.19,6.7,42.47,6914,40059.324,pequenoI
+Gameleiras,Norte de Minas,351.42,16.51,0.29,53.05,6.53,29.1,2.46,18.11,5127,28450.194,pequenoI
+Glaucilândia,Norte de Minas,400.03,20.93,0.0,53.16,4.92,26.28,6.39,34.01,2959,15752.402,pequenoI
+Goiabeira,Vale do Rio Doce,736.87,14.95,7.17,26.43,13.42,41.74,2.99,37.78,3043,17735.235,pequenoI
+Goianá,Zona da Mata,729.3,19.73,5.5,24.76,12.31,42.37,10.06,57.9,3646,24611.243,pequenoI
+Gonçalves,Sul/Sudoeste de Minas,679.08,17.72,4.38,36.8,9.6,35.08,7.3,35.67,4206,31309.301,pequenoI
+Gonzaga,Vale do Rio Doce,486.61,12.09,0.32,34.56,8.95,31.28,1.95,30.32,5879,23936.271,pequenoI
+Gouveia,Jequitinhonha,611.52,15.46,1.31,21.55,14.9,30.37,20.01,54.09,11637,93093.32199999999,pequenoI
+Governador Valadares,Vale do Rio Doce,1123.63,23.22,2.0,4.69,21.33,48.74,8.9,62.82,261663,3454061.21,medioII
+Grão Mogol,Norte de Minas,484.67,20.96,0.35,38.63,10.59,35.81,2.56,31.96,14929,204903.332,pequenoI
+Grupiara,Triângulo Mineiro/Alto Paranaíba,838.47,21.33,0.65,26.63,4.74,56.87,0.84,66.25,1373,15003.006000000001,pequenoI
+Guanhães,Vale do Rio Doce,970.98,21.79,3.38,21.98,18.14,38.0,5.52,50.03,31146,314399.691,pequenoII
+Guapé,Sul/Sudoeste de Minas,742.73,33.33,0.32,43.65,7.81,27.0,5.03,51.04,13798,105031.65800000001,pequenoI
+Guaraciaba,Zona da Mata,481.78,18.6,0.67,52.07,5.65,26.91,3.97,31.12,10094,44385.812999999995,pequenoI
+Guaraciama,Norte de Minas,460.47,30.47,0.16,61.1,5.34,24.65,2.36,42.04,4718,24466.487,pequenoI
+Guaranésia,Sul/Sudoeste de Minas,879.94,14.41,1.3,31.13,10.38,25.1,25.96,72.62,18503,269425.372,pequenoI
+Guarani,Zona da Mata,832.64,19.05,0.65,19.47,9.65,38.2,18.92,62.26,8560,67244.11200000001,pequenoI
+Guarará,Zona da Mata,697.38,18.7,0.82,14.55,12.34,37.61,23.93,64.93,3923,32662.926,pequenoI
+Guarda-Mor,Noroeste de Minas,1182.05,27.84,1.13,52.2,6.79,29.68,3.7,43.35,6521,186763.553,pequenoI
+Guaxupé,Sul/Sudoeste de Minas,1085.02,17.71,2.43,16.95,17.45,35.73,15.3,73.34,49148,1002735.561,pequenoII
+Guidoval,Zona da Mata,695.64,23.2,1.42,18.67,11.01,26.14,33.13,58.85,7173,71269.685,pequenoI
+Guimarânia,Triângulo Mineiro/Alto Paranaíba,963.34,28.48,1.47,37.25,8.63,28.29,8.24,49.84,7243,65724.12,pequenoI
+Guiricema,Zona da Mata,692.61,34.2,2.07,42.59,10.58,23.4,16.05,36.6,8689,59562.77099999999,pequenoI
+Gurinhatã,Triângulo Mineiro/Alto Paranaíba,859.83,24.5,1.36,49.69,5.94,25.91,2.72,43.72,5946,68044.622,pequenoI
+Heliodora,Sul/Sudoeste de Minas,787.85,35.05,1.37,53.9,7.34,20.19,11.33,49.54,6094,52136.832,pequenoI
+Iapu,Vale do Rio Doce,769.96,23.8,2.21,31.66,12.65,32.25,5.25,46.62,10298,47737.359000000004,pequenoI
+Ibertioga,Campo das Vertentes,584.24,22.42,0.98,37.1,10.09,32.86,6.77,42.54,4995,32863.556000000004,pequenoI
+Ibiá,Triângulo Mineiro/Alto Paranaíba,1123.13,20.02,0.69,31.34,10.62,30.61,6.38,57.55,23036,486188.367,pequenoII
+Ibiaí,Norte de Minas,435.92,19.58,0.22,47.08,7.02,30.36,2.52,34.42,7762,37098.854,pequenoI
+Ibiracatu,Norte de Minas,406.71,20.47,0.16,48.0,5.01,33.6,3.88,35.9,6149,25026.815,pequenoI
+Ibiraci,Sul/Sudoeste de Minas,1010.38,21.36,0.38,43.26,7.26,26.96,8.12,50.07,12006,440326.225,pequenoI
+Ibirité,Metropolitana de Belo Horizonte,869.38,15.1,0.44,1.24,15.0,43.83,17.03,73.67,158712,1407024.606,medioII
+Ibitiúra de Minas,Sul/Sudoeste de Minas,692.86,51.8,0.41,47.06,6.94,19.34,17.94,30.67,3382,29973.221,pequenoI
+Ibituruna,Oeste de Minas,724.85,21.08,0.88,50.42,7.12,28.2,3.07,62.4,2847,24237.065,pequenoI
+Icaraí de Minas,Norte de Minas,448.72,30.49,0.38,49.26,6.26,30.18,2.75,29.18,10652,40316.361000000004,pequenoI
+Igarapé,Metropolitana de Belo Horizonte,1019.52,17.26,1.99,6.12,15.97,40.79,19.31,65.37,34671,512939.529,pequenoII
+Igaratinga,Oeste de Minas,914.17,15.85,1.52,13.06,12.76,32.51,30.22,53.91,9216,87147.478,pequenoI
+Iguatama,Oeste de Minas,954.55,18.84,1.16,24.38,9.41,37.5,16.36,65.44,7989,214267.13100000002,pequenoI
+Ijaci,Campo das Vertentes,891.74,15.24,0.47,17.37,7.68,33.38,9.04,68.98,5859,300368.206,pequenoI
+Ilicínea,Sul/Sudoeste de Minas,784.59,28.18,1.35,45.01,6.27,22.27,18.88,59.36,11437,101089.927,pequenoI
+Imbé de Minas,Vale do Rio Doce,418.25,26.75,0.75,65.65,6.26,19.98,0.87,26.94,6424,32934.739,pequenoI
+Inconfidentes,Sul/Sudoeste de Minas,867.94,28.16,2.43,30.23,9.61,27.01,23.48,47.9,6905,54941.015,pequenoI
+Indaiabira,Norte de Minas,396.78,20.36,0.31,54.18,6.82,23.91,4.42,26.54,7320,31895.289,pequenoI
+Indianópolis,Triângulo Mineiro/Alto Paranaíba,917.02,22.5,0.83,56.57,6.36,26.58,6.1,57.41,6190,313496.903,pequenoI
+Ingaí,Campo das Vertentes,1045.64,14.53,3.6,48.54,6.2,26.19,11.82,66.78,2612,27822.603,pequenoI
+Inhapim,Vale do Rio Doce,696.52,31.58,1.46,46.41,13.16,29.94,2.63,37.26,24155,140499.09900000002,pequenoII
+Inhaúma,Metropolitana de Belo Horizonte,777.56,14.82,0.44,17.08,8.56,46.84,7.71,57.6,5755,58407.094000000005,pequenoI
+Inimutaba,Central Mineira,579.28,20.6,0.0,30.04,8.53,31.52,14.19,50.26,6704,53905.744000000006,pequenoI
+Ipaba,Vale do Rio Doce,745.86,17.05,0.81,12.43,11.01,40.3,16.47,59.7,16263,63699.962,pequenoI
+Ipanema,Vale do Rio Doce,845.2,26.79,2.37,25.93,15.31,37.47,8.22,42.66,18079,116595.74,pequenoI
+Ipatinga,Vale do Rio Doce,1395.93,16.61,2.57,0.75,18.41,41.89,21.42,73.45,238052,7520603.844,medioII
+Ipiaçu,Triângulo Mineiro/Alto Paranaíba,1023.53,17.55,1.39,32.75,10.13,39.38,9.4,65.28,4090,44768.897000000004,pequenoI
+Ipuiúna,Sul/Sudoeste de Minas,1171.98,22.8,3.0,43.44,10.67,24.99,14.01,34.48,9465,85473.837,pequenoI
+Iraí de Minas,Triângulo Mineiro/Alto Paranaíba,1078.83,26.34,1.19,46.47,9.5,33.24,3.1,52.22,6431,97495.42800000001,pequenoI
+Itabira,Metropolitana de Belo Horizonte,1113.96,14.15,2.37,5.88,14.18,43.64,6.42,72.87,109507,4137155.461,medioII
+Itabirinha,Vale do Rio Doce,716.05,28.25,1.97,29.32,12.67,34.35,9.4,31.3,10650,53737.553,pequenoI
+Itabirito,Metropolitana de Belo Horizonte,1202.81,15.28,2.68,3.32,15.84,37.57,12.46,78.99,45260,1879338.804,pequenoII
+Itacambira,Norte de Minas,438.83,15.09,1.5,52.74,4.99,27.07,2.65,41.89,4960,29415.116,pequenoI
+Itacarambi,Norte de Minas,687.7,16.12,0.88,32.14,9.93,37.58,6.8,49.33,17667,101680.70599999999,pequenoI
+Itaguara,Metropolitana de Belo Horizonte,866.94,24.39,1.49,18.99,11.48,42.46,15.59,53.18,12289,114343.896,pequenoI
+Itaipé,Vale do Mucuri,400.72,18.32,0.44,56.52,10.44,21.72,3.27,26.8,11764,49688.324,pequenoI
+Itajubá,Sul/Sudoeste de Minas,1448.62,19.72,3.08,3.54,18.49,43.85,18.01,73.08,89914,1993811.24,medioI
+Itamarandiba,Jequitinhonha,599.91,17.52,1.47,41.26,11.84,32.54,4.29,35.17,31946,225982.611,pequenoII
+Itamarati de Minas,Zona da Mata,779.46,25.96,1.47,23.28,9.3,41.32,13.76,47.89,4072,67828.80900000001,pequenoI
+Itambacuri,Vale do Rio Doce,601.15,17.5,2.33,31.67,10.25,40.84,4.05,36.29,22559,160173.985,pequenoII
+Itambé do Mato Dentro,Metropolitana de Belo Horizonte,535.76,31.64,1.31,42.78,6.93,34.56,2.21,25.59,2273,12031.899,pequenoI
+Itamogi,Sul/Sudoeste de Minas,724.62,27.57,1.44,54.06,8.76,22.1,8.66,41.21,10288,96598.359,pequenoI
+Itamonte,Sul/Sudoeste de Minas,890.05,21.81,2.3,20.38,9.45,37.93,16.58,53.11,13847,266373.505,pequenoI
+Itanhandu,Sul/Sudoeste de Minas,1050.13,18.28,1.33,15.88,10.36,33.44,27.88,70.44,14102,298492.04600000003,pequenoI
+Itanhomi,Vale do Rio Doce,799.37,24.7,3.73,31.72,13.04,35.85,4.56,31.3,11788,63814.585,pequenoI
+Itaobim,Jequitinhonha,581.11,26.83,0.18,23.94,19.39,36.43,5.06,37.97,20869,150304.26,pequenoII
+Itapagipe,Triângulo Mineiro/Alto Paranaíba,1121.69,27.48,0.63,31.01,12.24,30.7,13.73,55.33,13438,206591.547,pequenoI
+Itapecerica,Oeste de Minas,910.0,25.48,0.62,19.17,12.4,33.46,17.05,62.11,21279,202848.108,pequenoII
+Itapeva,Sul/Sudoeste de Minas,969.36,27.19,1.35,21.18,10.49,34.57,18.44,57.01,8591,123770.367,pequenoI
+Itatiaiuçu,Metropolitana de Belo Horizonte,819.26,16.23,0.99,20.91,10.76,33.97,9.59,63.65,9928,975684.085,pequenoI
+Itaú de Minas,Sul/Sudoeste de Minas,1546.64,18.29,2.7,6.13,14.54,41.24,22.73,67.44,14911,517685.006,pequenoI
+Itaúna,Oeste de Minas,1316.5,17.95,2.48,3.79,16.31,41.06,22.57,74.75,84936,1657410.705,medioI
+Itaverava,Metropolitana de Belo Horizonte,470.03,21.97,0.68,46.27,6.03,25.81,4.59,31.28,5799,23700.104,pequenoI
+Itinga,Jequitinhonha,441.58,20.65,0.75,46.34,10.65,26.23,4.04,33.26,14377,63441.842000000004,pequenoI
+Itueta,Vale do Rio Doce,707.46,24.07,1.59,52.96,5.99,26.07,3.76,29.86,5817,39452.623999999996,pequenoI
+Ituiutaba,Triângulo Mineiro/Alto Paranaíba,1295.84,19.67,3.63,8.98,16.06,43.9,15.93,64.0,96689,1689146.54,medioI
+Itumirim,Campo das Vertentes,913.69,20.14,0.1,21.91,9.29,34.64,12.45,62.92,6129,31956.478,pequenoI
+Iturama,Triângulo Mineiro/Alto Paranaíba,1227.46,19.07,2.08,12.07,16.22,37.44,20.9,64.45,34074,1529028.0480000002,pequenoII
+Itutinga,Campo das Vertentes,862.29,27.68,0.23,37.39,5.52,35.54,4.13,49.26,3907,52377.862,pequenoI
+Jaboticatubas,Metropolitana de Belo Horizonte,802.75,23.28,1.26,18.39,12.67,45.32,6.76,47.29,17004,98446.763,pequenoI
+Jacinto,Jequitinhonha,522.83,21.93,0.91,43.97,11.32,32.77,2.53,25.42,12035,55575.89599999999,pequenoI
+Jacuí,Sul/Sudoeste de Minas,780.53,28.44,1.93,50.67,7.62,23.8,11.6,50.1,7455,57548.558,pequenoI
+Jacutinga,Sul/Sudoeste de Minas,953.86,25.37,2.67,15.19,13.44,25.64,33.66,59.64,22610,307463.223,pequenoII
+Jaguaraçu,Vale do Rio Doce,770.26,16.97,0.6,13.12,7.9,40.54,13.65,65.81,2973,39642.472,pequenoI
+Jaíba,Norte de Minas,705.84,23.78,0.57,45.0,10.48,26.4,6.75,37.19,33499,233405.595,pequenoII
+Jampruca,Vale do Rio Doce,609.51,14.34,0.75,46.9,9.14,31.47,0.81,34.48,5017,33690.402,pequenoI
+Janaúba,Norte de Minas,872.13,18.17,1.85,21.88,19.79,39.54,6.99,48.81,66381,490115.175,medioI
+Januária,Norte de Minas,645.1,19.68,0.9,29.85,12.48,40.97,4.09,39.15,65174,339717.89700000006,medioI
+Japaraíba,Central Mineira,894.57,15.7,0.64,24.21,10.12,23.3,35.94,57.57,3883,34617.445,pequenoI
+Japonvar,Norte de Minas,340.69,13.24,0.42,52.41,11.92,19.98,2.23,27.44,8266,31017.494,pequenoI
+Jeceaba,Metropolitana de Belo Horizonte,784.17,13.31,0.48,16.64,7.52,37.36,11.85,62.81,5389,128821.271,pequenoI
+Jenipapo de Minas,Jequitinhonha,506.46,11.09,0.33,48.12,5.96,30.29,4.09,44.02,7096,26599.306,pequenoI
+Jequeri,Zona da Mata,514.28,27.5,1.13,54.9,7.02,26.99,2.41,28.93,12804,71700.01299999999,pequenoI
+Jequitaí,Norte de Minas,568.41,24.37,0.79,43.87,12.83,29.86,1.96,34.74,7912,41793.277,pequenoI
+Jequitibá,Metropolitana de Belo Horizonte,576.16,21.57,0.09,41.91,3.6,32.0,4.13,36.7,5134,70356.036,pequenoI
+Jequitinhonha,Jequitinhonha,563.01,22.9,0.69,36.66,9.64,35.94,4.45,33.03,23901,109208.013,pequenoII
+Jesuânia,Sul/Sudoeste de Minas,775.87,23.75,0.0,48.22,8.6,30.19,4.1,45.66,4746,33063.892,pequenoI
+Joaíma,Jequitinhonha,439.04,21.14,0.85,45.37,8.77,31.85,4.37,26.31,14882,65480.958,pequenoI
+Joanésia,Vale do Rio Doce,526.63,10.09,0.9,39.11,8.36,32.65,4.89,36.49,5405,68817.39,pequenoI
+João Monlevade,Metropolitana de Belo Horizonte,1251.82,17.21,2.54,2.2,18.81,45.84,12.67,72.03,73350,1697019.969,medioI
+João Pinheiro,Noroeste de Minas,926.33,19.42,2.74,29.46,17.13,34.67,7.67,51.6,44883,617035.519,pequenoII
+Joaquim Felício,Central Mineira,690.51,24.04,0.53,36.81,6.52,33.29,13.43,47.76,4269,28783.96,pequenoI
+Jordânia,Jequitinhonha,658.14,23.74,3.39,40.79,13.92,32.49,3.71,25.69,10253,42849.065,pequenoI
+José Gonçalves de Minas,Jequitinhonha,505.78,11.11,0.0,60.96,5.23,22.12,5.61,50.34,4547,17729.432,pequenoI
+José Raydan,Vale do Rio Doce,476.61,18.41,0.54,54.08,3.92,25.68,10.14,26.03,4359,26349.002999999997,pequenoI
+Josenópolis,Norte de Minas,334.33,12.26,1.49,61.72,2.13,27.61,0.88,36.26,4566,22824.535,pequenoI
+Nova União,Metropolitana de Belo Horizonte,596.4,27.22,0.51,28.87,6.68,37.6,7.92,49.14,5489,40734.119,pequenoI
+Juatuba,Metropolitana de Belo Horizonte,907.12,12.39,0.91,6.7,10.93,36.8,25.26,73.2,21994,806639.078,pequenoII
+Juiz de Fora,Zona da Mata,1438.12,19.91,3.57,2.63,17.17,53.73,11.42,73.74,512779,9912515.129,grandeI
+Juramento,Norte de Minas,461.91,16.63,0.59,44.97,9.24,36.21,1.89,38.3,4105,25311.576,pequenoI
+Juruaia,Sul/Sudoeste de Minas,1671.92,29.67,3.45,43.03,10.3,16.35,20.95,47.29,9199,85096.18800000001,pequenoI
+Juvenília,Norte de Minas,489.89,19.76,0.43,37.32,7.85,40.43,1.96,31.6,5695,25442.659,pequenoI
+Ladainha,Vale do Mucuri,372.54,32.45,0.94,63.51,6.18,21.34,1.61,26.81,16942,71314.504,pequenoI
+Lagamar,Noroeste de Minas,998.44,25.7,2.47,39.14,7.95,32.37,5.68,42.36,7563,80104.955,pequenoI
+Lagoa da Prata,Central Mineira,1132.39,18.25,2.78,7.13,22.29,34.24,24.51,60.75,45628,786658.642,pequenoII
+Lagoa dos Patos,Norte de Minas,496.01,17.37,0.5,43.86,7.69,36.42,4.23,35.99,4214,27436.745,pequenoI
+Lagoa Dourada,Campo das Vertentes,945.51,27.03,1.17,43.99,14.73,24.45,7.88,41.66,12236,90792.931,pequenoI
+Lagoa Formosa,Triângulo Mineiro/Alto Paranaíba,1093.43,26.43,2.85,43.84,14.49,28.44,6.8,49.51,17085,147430.55,pequenoI
+Lagoa Grande,Noroeste de Minas,941.31,22.79,2.46,47.13,8.92,27.45,3.19,59.94,8278,93467.788,pequenoI
+Lagoa Santa,Metropolitana de Belo Horizonte,1711.55,22.02,2.29,2.88,14.14,57.08,7.59,66.21,52326,982774.177,medioI
+Lajinha,Zona da Mata,791.62,22.75,2.32,49.57,13.76,27.91,3.11,32.85,19549,168092.08800000002,pequenoI
+Lambari,Sul/Sudoeste de Minas,871.88,31.96,3.25,26.41,14.43,35.35,12.52,48.14,19460,179753.67899999997,pequenoI
+Lamim,Zona da Mata,524.91,22.57,1.21,42.85,8.99,32.6,1.72,28.29,3450,18555.894,pequenoI
+Laranjal,Zona da Mata,833.46,24.7,0.84,24.14,9.54,42.95,12.34,48.95,6462,45132.16099999999,pequenoI
+Lassance,Norte de Minas,606.79,18.76,0.75,49.13,7.89,29.46,3.99,46.78,6472,79405.136,pequenoI
+Lavras,Campo das Vertentes,1348.48,16.51,2.86,6.03,16.9,48.95,14.39,75.1,91582,1494001.949,medioI
+Leandro Ferreira,Central Mineira,938.22,17.41,1.26,27.53,7.49,31.98,23.96,58.2,3162,22840.564,pequenoI
+Leme do Prado,Jequitinhonha,580.22,8.82,0.33,26.29,8.98,39.4,10.11,60.49,4771,23275.642000000003,pequenoI
+Leopoldina,Zona da Mata,979.07,18.91,2.6,9.04,16.1,44.35,14.94,67.19,50929,577376.541,medioI
+Liberdade,Sul/Sudoeste de Minas,964.94,25.11,0.28,31.56,11.31,34.42,5.57,46.28,5324,46487.224,pequenoI
+Lima Duarte,Zona da Mata,766.97,21.01,2.56,26.1,13.44,37.41,7.24,52.37,15936,120955.31800000001,pequenoI
+Limeira do Oeste,Triângulo Mineiro/Alto Paranaíba,1078.42,17.12,0.93,19.04,9.23,35.88,23.71,67.57,6792,137009.83,pequenoI
+Lontra,Norte de Minas,457.73,15.31,0.45,44.28,9.44,35.7,2.63,26.16,8391,29545.235,pequenoI
+Luisburgo,Zona da Mata,532.01,39.22,0.63,74.38,2.74,17.71,1.37,27.88,6234,47008.702000000005,pequenoI
+Luislândia,Norte de Minas,416.0,27.55,1.4,46.11,8.46,34.2,3.57,27.68,6386,29249.047000000002,pequenoI
+Luminárias,Campo das Vertentes,756.06,21.75,1.8,37.45,13.94,25.25,3.07,66.7,5392,40033.506,pequenoI
+Luz,Central Mineira,1142.08,21.26,2.62,20.85,15.67,38.43,12.84,57.2,17356,243054.893,pequenoI
+Machacalis,Vale do Mucuri,600.45,19.92,1.01,29.98,13.38,37.36,3.33,30.04,6957,35378.895,pequenoI
+Machado,Sul/Sudoeste de Minas,1149.12,19.27,3.88,32.98,12.65,30.27,14.52,62.75,38494,596819.439,pequenoII
+Madre de Deus de Minas,Campo das Vertentes,849.21,23.61,1.73,41.82,5.36,34.5,4.13,42.95,4862,49889.655999999995,pequenoI
+Malacacheta,Vale do Mucuri,588.05,31.48,1.28,44.35,11.31,29.63,4.5,26.42,18620,93829.138,pequenoI
+Mamonas,Norte de Minas,316.3,22.35,0.47,50.53,12.58,21.18,6.72,16.28,6300,22994.982999999997,pequenoI
+Manga,Norte de Minas,739.26,21.86,0.79,36.97,10.33,38.3,3.56,32.09,19734,103264.44,pequenoI
+Manhuaçu,Zona da Mata,956.13,26.52,1.53,27.51,17.35,35.0,8.56,52.42,79311,1109457.523,medioI
+Manhumirim,Zona da Mata,892.87,20.44,2.05,31.35,14.91,36.79,8.04,49.93,21211,225450.14899999998,pequenoII
+Mantena,Vale do Rio Doce,820.4,27.13,1.88,20.92,17.2,36.36,9.3,42.38,26872,206461.337,pequenoII
+Maravilhas,Metropolitana de Belo Horizonte,724.7,13.41,3.37,29.92,15.0,31.3,10.24,47.82,7130,75415.076,pequenoI
+Mar de Espanha,Zona da Mata,817.84,17.22,1.97,9.36,8.32,26.95,44.1,72.53,11684,100179.742,pequenoI
+Maria da Fé,Sul/Sudoeste de Minas,742.67,19.76,0.9,27.32,10.8,34.04,18.71,46.23,14152,86632.604,pequenoI
+Mariana,Metropolitana de Belo Horizonte,1098.64,16.68,1.42,6.92,13.47,42.76,4.93,71.34,53910,3690160.5560000003,medioI
+Marilac,Vale do Rio Doce,710.11,18.87,1.86,36.82,12.21,33.83,1.95,33.24,4209,21621.347,pequenoI
+Mário Campos,Metropolitana de Belo Horizonte,983.85,16.57,1.23,11.31,17.52,41.05,8.77,64.03,13160,74243.295,pequenoI
+Maripá de Minas,Zona da Mata,797.56,19.16,0.27,12.27,6.05,32.45,25.36,73.73,2777,23369.504,pequenoI
+Marliéria,Vale do Rio Doce,625.88,10.64,0.29,26.04,8.27,40.21,8.28,62.75,3975,21838.845,pequenoI
+Marmelópolis,Sul/Sudoeste de Minas,652.47,40.86,0.43,44.48,13.15,27.21,6.53,37.86,2935,23366.65,pequenoI
+Martinho Campos,Central Mineira,941.91,16.95,1.98,30.37,13.48,33.23,7.78,56.6,12519,156044.275,pequenoI
+Martins Soares,Zona da Mata,568.74,41.63,0.63,73.11,6.58,15.69,2.18,26.01,7168,75197.735,pequenoI
+Mata Verde,Jequitinhonha,538.07,18.31,1.31,48.39,12.12,30.97,2.22,25.76,7857,31338.653,pequenoI
+Materlândia,Vale do Rio Doce,442.84,10.94,2.57,51.49,6.86,32.78,1.19,32.42,4568,24893.023999999998,pequenoI
+Mateus Leme,Metropolitana de Belo Horizonte,995.39,20.82,1.03,9.59,13.94,36.87,16.58,69.03,27814,403967.305,pequenoII
+Matias Barbosa,Zona da Mata,1014.24,19.56,2.39,6.31,14.66,53.08,7.43,70.31,13373,387353.341,pequenoI
+Matias Cardoso,Norte de Minas,593.22,12.42,0.32,46.95,6.19,30.34,1.01,41.64,9970,67477.132,pequenoI
+Matipó,Zona da Mata,739.96,16.15,0.65,51.38,10.94,27.04,2.46,36.79,17495,170545.11800000002,pequenoI
+Mato Verde,Norte de Minas,464.81,27.27,2.79,39.04,13.72,31.47,6.43,25.21,12620,65688.065,pequenoI
+Matozinhos,Metropolitana de Belo Horizonte,984.88,16.12,1.46,5.49,11.31,35.93,25.88,72.84,33851,673868.445,pequenoII
+Matutina,Triângulo Mineiro/Alto Paranaíba,1349.67,28.69,0.34,33.77,8.53,33.9,5.07,41.12,3749,37954.223,pequenoI
+Medeiros,Oeste de Minas,1212.05,33.2,1.31,52.46,3.94,27.02,4.65,41.17,3415,52659.431,pequenoI
+Medina,Jequitinhonha,690.21,18.44,1.62,31.31,11.76,36.64,2.41,31.4,20923,119038.32800000001,pequenoII
+Mendes Pimentel,Vale do Rio Doce,695.85,26.49,0.99,36.85,8.91,33.47,5.36,37.56,6318,36865.365,pequenoI
+Mercês,Zona da Mata,917.27,22.83,1.76,31.55,10.55,36.37,8.11,36.33,10313,59877.928,pequenoI
+Mesquita,Vale do Rio Doce,600.59,17.57,0.37,36.78,5.49,29.41,6.26,44.99,6069,26545.562,pequenoI
+Minas Novas,Jequitinhonha,537.49,12.53,0.68,39.81,8.47,31.24,6.74,43.8,30613,137669.959,pequenoII
+Minduri,Sul/Sudoeste de Minas,629.1,14.16,0.54,25.42,5.78,46.95,7.75,44.12,3825,35677.941,pequenoI
+Mirabela,Norte de Minas,522.47,20.74,0.79,38.32,13.83,32.22,3.92,32.12,13017,58022.865999999995,pequenoI
+Miradouro,Zona da Mata,649.17,27.02,1.55,44.16,12.02,28.98,4.83,48.39,10180,90586.186,pequenoI
+Miraí,Zona da Mata,874.84,16.95,1.76,16.54,17.72,33.68,16.15,54.78,13704,132578.77599999998,pequenoI
+Miravânia,Norte de Minas,392.56,18.7,0.9,46.33,4.75,34.6,5.67,30.98,4501,36186.965,pequenoI
+Moeda,Metropolitana de Belo Horizonte,746.17,18.02,2.16,20.09,9.89,41.35,5.1,52.94,4667,30637.732999999997,pequenoI
+Moema,Central Mineira,922.89,20.84,4.88,20.94,27.15,29.13,14.59,36.86,6975,45122.871,pequenoI
+Monjolos,Central Mineira,670.74,17.92,0.0,41.49,4.44,43.1,3.3,49.92,2342,18425.363999999998,pequenoI
+Monsenhor Paulo,Sul/Sudoeste de Minas,854.92,16.61,1.45,40.17,6.84,22.52,23.22,56.14,8124,115169.15199999999,pequenoI
+Montalvânia,Norte de Minas,578.36,20.5,0.85,35.0,12.67,34.7,4.43,29.9,15814,80863.974,pequenoI
+Monte Alegre de Minas,Triângulo Mineiro/Alto Paranaíba,1031.73,27.8,1.24,39.38,12.32,32.95,4.17,49.31,19367,265413.506,pequenoI
+Monte Azul,Norte de Minas,520.51,31.47,1.23,41.04,12.71,31.74,4.88,23.28,21857,99934.007,pequenoII
+Monte Belo,Sul/Sudoeste de Minas,737.64,25.89,1.3,56.3,7.1,21.7,6.39,40.02,12789,149192.991,pequenoI
+Monte Carmelo,Triângulo Mineiro/Alto Paranaíba,1151.25,19.83,2.05,20.18,15.74,33.22,15.75,60.34,45533,743439.99,pequenoII
+Monte Formoso,Jequitinhonha,346.88,8.04,0.14,49.92,7.52,26.12,1.44,25.48,4651,17007.953,pequenoI
+Monte Santo de Minas,Sul/Sudoeste de Minas,871.67,23.79,3.1,39.45,10.8,31.42,9.35,59.08,21078,223710.39899999998,pequenoII
+Montes Claros,Norte de Minas,1101.09,20.55,2.71,5.6,20.82,50.88,9.53,59.42,359278,4843675.092,medioII
+Monte Sião,Sul/Sudoeste de Minas,1008.64,35.34,3.87,15.21,11.31,20.75,39.56,46.08,21033,237578.02300000002,pequenoII
+Montezuma,Norte de Minas,422.52,24.27,0.25,59.14,6.81,22.83,5.97,35.43,7448,30837.18,pequenoI
+Morada Nova de Minas,Central Mineira,799.43,23.17,1.62,34.94,8.66,41.08,3.61,50.13,8185,93114.246,pequenoI
+Morro da Garça,Central Mineira,706.37,8.71,0.64,52.24,2.26,33.57,3.49,55.8,2655,37122.109,pequenoI
+Morro do Pilar,Metropolitana de Belo Horizonte,627.84,23.71,0.0,34.52,7.83,39.0,5.86,34.68,3392,54879.834,pequenoI
+Munhoz,Sul/Sudoeste de Minas,647.0,25.51,0.39,48.24,6.31,26.84,3.68,25.68,6227,34382.587,pequenoI
+Muriaé,Zona da Mata,1087.99,19.4,2.44,6.84,17.52,42.25,18.25,65.91,99937,1218094.945,medioI
+Mutum,Vale do Rio Doce,608.97,28.02,0.7,51.49,7.7,27.04,6.65,28.02,26563,180737.97699999998,pequenoII
+Muzambinho,Sul/Sudoeste de Minas,1071.23,35.76,2.25,34.78,14.47,32.5,5.5,45.46,20324,224214.974,pequenoII
+Nacip Raydan,Vale do Rio Doce,820.96,12.85,0.89,43.66,7.59,31.65,3.19,19.51,3122,16517.54,pequenoI
+Nanuque,Vale do Mucuri,932.55,19.58,2.62,14.31,19.46,40.28,13.54,57.97,40582,525635.26,pequenoII
+Naque,Vale do Rio Doce,771.4,12.59,0.85,20.89,11.11,41.94,5.83,66.53,6341,32676.879,pequenoI
+Natalândia,Noroeste de Minas,700.92,18.41,1.92,37.02,6.36,35.16,3.87,50.73,3259,21541.28,pequenoI
+Natércia,Sul/Sudoeste de Minas,716.49,41.92,0.62,49.35,7.15,25.85,7.76,38.99,4620,40890.121,pequenoI
+Nazareno,Campo das Vertentes,798.58,19.86,0.78,31.93,9.61,28.65,6.43,57.32,7950,101930.679,pequenoI
+Nepomuceno,Campo das Vertentes,724.4,18.81,1.37,46.59,10.38,27.76,7.11,54.1,25505,227754.74800000002,pequenoII
+Ninheira,Norte de Minas,361.19,16.32,0.46,48.79,6.88,27.45,1.93,23.89,9815,39812.545,pequenoI
+Nova Belém,Vale do Rio Doce,423.44,26.96,0.52,57.28,2.29,27.4,1.62,21.06,3723,23622.912,pequenoI
+Nova Era,Metropolitana de Belo Horizonte,875.71,13.62,1.91,6.33,17.51,44.06,7.48,69.25,17450,273507.32300000003,pequenoI
+Nova Lima,Metropolitana de Belo Horizonte,2437.34,15.71,3.58,1.13,12.13,54.49,8.67,76.15,80327,5382563.8,medioI
+Nova Módica,Vale do Rio Doce,647.25,15.96,0.15,40.1,6.69,40.83,1.19,28.48,3783,22223.673,pequenoI
+Nova Ponte,Triângulo Mineiro/Alto Paranaíba,1448.39,17.5,1.61,29.01,10.99,32.54,16.37,70.21,12760,617921.787,pequenoI
+Nova Porteirinha,Norte de Minas,479.17,19.46,0.71,47.38,12.8,26.11,5.9,37.24,7362,48912.776,pequenoI
+Nova Resende,Sul/Sudoeste de Minas,852.0,38.62,1.09,69.55,7.28,16.68,4.0,30.97,15262,173609.201,pequenoI
+Nova Serrana,Oeste de Minas,975.87,13.04,3.45,1.99,9.77,16.41,65.11,66.72,73372,1010516.157,medioI
+Novo Cruzeiro,Jequitinhonha,424.41,23.94,0.52,54.68,6.34,23.16,3.18,26.15,30589,112678.46800000001,pequenoII
+Novo Oriente de Minas,Vale do Mucuri,439.29,14.0,0.0,44.26,8.72,29.03,6.1,28.82,10243,41443.43,pequenoI
+Novorizonte,Norte de Minas,443.3,23.43,0.28,49.64,6.32,25.34,5.96,33.42,4951,22906.654,pequenoI
+Olaria,Zona da Mata,661.09,25.04,0.0,43.49,6.65,34.45,3.58,53.52,1970,12836.913999999999,pequenoI
+Olhos-d'Água,Norte de Minas,523.64,30.73,0.28,51.3,4.82,27.98,1.87,50.12,5261,47183.614,pequenoI
+Olímpio Noronha,Sul/Sudoeste de Minas,726.16,11.39,1.34,46.56,6.96,33.4,6.65,64.65,2530,20328.499,pequenoI
+Oliveira,Oeste de Minas,874.45,16.89,1.81,17.15,14.55,37.47,16.65,64.45,39286,434492.289,pequenoII
+Oliveira Fortes,Zona da Mata,569.98,15.89,1.04,38.28,6.7,31.19,7.69,43.54,2095,15788.851999999999,pequenoI
+Onça de Pitangui,Metropolitana de Belo Horizonte,735.75,21.15,0.69,47.07,6.61,28.95,9.65,49.92,3055,27078.236,pequenoI
+Oratórios,Zona da Mata,674.88,16.64,0.42,35.75,11.87,30.34,12.55,67.98,4493,27555.776,pequenoI
+Orizânia,Zona da Mata,407.22,26.39,0.34,68.21,5.79,18.06,1.16,20.5,7281,33491.032999999996,pequenoI
+Ouro Branco,Metropolitana de Belo Horizonte,1440.44,17.84,1.77,3.9,11.54,43.93,20.25,74.78,35143,2047668.344,pequenoII
+Ouro Fino,Sul/Sudoeste de Minas,880.63,27.91,2.4,26.79,14.57,28.66,21.4,55.8,31352,398544.22799999994,pequenoII
+Ouro Preto,Metropolitana de Belo Horizonte,1105.88,19.9,1.36,6.53,13.14,49.65,7.46,66.94,69836,3713842.1569999997,medioI
+Ouro Verde de Minas,Vale do Mucuri,590.04,38.7,0.74,40.66,12.33,31.88,2.56,29.44,5990,27353.709,pequenoI
+Padre Carvalho,Norte de Minas,463.22,12.92,0.3,51.71,5.29,21.31,5.47,55.99,5828,28615.541,pequenoI
+Padre Paraíso,Jequitinhonha,479.35,27.0,1.08,32.61,14.83,32.8,2.83,25.43,18791,94995.9,pequenoI
+Paineiras,Central Mineira,835.04,27.45,2.32,39.07,11.68,35.12,4.49,40.12,4597,37241.431000000004,pequenoI
+Pains,Oeste de Minas,1044.92,21.52,2.02,17.82,8.95,33.77,18.79,60.15,7945,162196.139,pequenoI
+Pai Pedro,Norte de Minas,353.54,17.48,0.36,51.62,2.92,33.44,2.97,33.95,5902,25568.743,pequenoI
+Paiva,Zona da Mata,601.27,15.95,0.36,35.91,6.59,33.71,2.24,43.37,1553,11879.726,pequenoI
+Palma,Zona da Mata,680.96,20.35,1.96,35.64,10.04,41.35,4.41,45.08,6527,38381.087,pequenoI
+Palmópolis,Jequitinhonha,306.24,23.17,0.08,50.74,5.13,26.87,2.24,19.49,6915,25198.847999999998,pequenoI
+Papagaios,Metropolitana de Belo Horizonte,838.45,17.17,3.55,13.83,16.74,32.39,16.29,51.42,14082,160378.643,pequenoI
+Paracatu,Noroeste de Minas,1125.93,18.09,2.06,18.72,15.74,38.89,6.68,63.08,84327,1701105.3369999998,medioI
+Pará de Minas,Metropolitana de Belo Horizonte,1046.87,17.41,1.46,8.08,16.32,38.79,20.43,73.58,83588,1577111.323,medioI
+Paraguaçu,Sul/Sudoeste de Minas,866.83,21.19,1.67,31.86,11.83,29.4,21.09,61.82,20104,266338.703,pequenoII
+Paraisópolis,Sul/Sudoeste de Minas,919.14,17.84,2.22,13.31,13.45,32.09,26.42,63.39,19290,309859.293,pequenoI
+Paraopeba,Metropolitana de Belo Horizonte,797.55,21.23,0.79,17.19,17.56,36.43,14.32,60.42,22494,289500.459,pequenoII
+Passabém,Metropolitana de Belo Horizonte,496.36,8.46,0.16,33.57,6.65,47.01,1.99,37.17,1755,10529.344,pequenoI
+Passa Quatro,Sul/Sudoeste de Minas,858.09,21.14,2.76,16.72,10.01,39.62,18.16,61.66,15471,214361.737,pequenoI
+Passa Tempo,Oeste de Minas,826.12,24.02,1.12,24.93,13.21,33.39,10.01,48.12,8144,94413.1,pequenoI
+Passa-Vinte,Sul/Sudoeste de Minas,644.9,20.08,1.78,49.25,6.46,33.77,1.77,45.14,2068,13601.77,pequenoI
+Passos,Sul/Sudoeste de Minas,1248.65,18.9,2.2,8.88,16.96,41.37,14.92,69.54,105700,1408579.1530000002,medioII
+Patis,Norte de Minas,482.87,22.1,0.0,36.55,7.72,35.69,3.78,35.31,5566,24213.475,pequenoI
+Patos de Minas,Triângulo Mineiro/Alto Paranaíba,1288.18,20.51,3.91,12.47,18.13,46.48,10.41,68.09,138003,1996955.158,medioII
+Patrocínio,Triângulo Mineiro/Alto Paranaíba,1157.47,20.32,2.7,27.11,15.68,37.41,7.9,62.56,81685,1282274.787,medioI
+Patrocínio do Muriaé,Zona da Mata,733.52,27.66,0.26,23.83,7.68,32.53,22.94,51.57,5277,40174.878,pequenoI
+Paula Cândido,Zona da Mata,593.44,17.51,1.58,46.95,7.11,25.46,11.46,48.26,9230,47333.723,pequenoI
+Paulistas,Vale do Rio Doce,465.61,15.26,0.56,50.27,6.23,30.05,3.07,22.35,4885,24756.506,pequenoI
+Pavão,Vale do Mucuri,611.84,15.98,0.92,42.09,10.75,27.52,1.9,35.48,8494,42179.070999999996,pequenoI
+Peçanha,Vale do Rio Doce,632.78,20.3,3.02,48.6,10.76,29.91,1.99,30.4,17146,101351.66699999999,pequenoI
+Pedra Azul,Jequitinhonha,690.73,15.71,0.41,20.84,17.37,41.38,4.32,37.21,23746,136505.103,pequenoII
+Pedra Bonita,Zona da Mata,356.88,35.54,0.37,79.35,2.11,15.23,0.0,12.44,6671,39328.31,pequenoI
+Pedra do Anta,Zona da Mata,426.57,19.69,0.58,51.54,9.02,29.71,3.15,27.75,3362,15844.177,pequenoI
+Pedra do Indaiá,Oeste de Minas,791.8,29.81,1.51,42.32,6.48,21.84,20.5,46.43,3864,53968.425,pequenoI
+Pedra Dourada,Zona da Mata,658.78,15.37,0.63,53.44,3.79,30.09,5.86,23.62,2182,19493.421000000002,pequenoI
+Pedralva,Sul/Sudoeste de Minas,921.96,33.45,1.62,43.86,9.52,29.05,7.49,42.37,11386,76793.942,pequenoI
+Pedras de Maria da Cruz,Norte de Minas,444.95,23.16,0.0,49.88,9.13,26.25,1.97,36.13,10276,40951.778,pequenoI
+Pedrinópolis,Triângulo Mineiro/Alto Paranaíba,1088.31,23.58,1.7,39.85,8.66,35.42,4.45,51.9,3478,54034.575999999994,pequenoI
+Pedro Leopoldo,Metropolitana de Belo Horizonte,1145.86,18.32,1.8,3.71,11.92,44.73,18.03,72.64,58479,1134938.418,medioI
+Pedro Teixeira,Zona da Mata,553.63,31.53,0.0,46.06,4.15,32.16,3.35,48.48,1785,11927.048,pequenoI
+Pequeri,Zona da Mata,786.65,19.43,1.0,11.27,4.65,39.5,27.36,67.96,3121,24088.887000000002,pequenoI
+Pequi,Metropolitana de Belo Horizonte,758.09,17.05,0.81,37.27,8.22,37.83,6.9,46.85,4070,30897.985,pequenoI
+Perdigão,Oeste de Minas,981.71,19.8,4.57,8.27,10.82,22.3,37.83,62.57,8862,75570.338,pequenoI
+Perdizes,Triângulo Mineiro/Alto Paranaíba,1281.65,18.95,2.0,49.16,8.33,28.1,5.45,62.58,14276,324857.502,pequenoI
+Perdões,Oeste de Minas,1137.87,24.48,1.05,21.32,15.74,40.18,9.58,62.51,20034,275999.099,pequenoII
+Periquito,Vale do Rio Doce,626.1,10.55,0.37,30.02,7.02,34.46,5.97,58.79,7023,47411.965,pequenoI
+Pescador,Vale do Rio Doce,789.51,17.72,1.87,33.52,7.44,38.41,4.83,31.22,4044,24065.15,pequenoI
+Piau,Zona da Mata,681.68,33.2,0.99,44.22,6.26,30.78,1.98,40.91,2837,28534.907000000003,pequenoI
+Piedade de Caratinga,Vale do Rio Doce,623.99,31.64,1.01,61.01,11.24,16.86,2.19,37.92,7096,44215.657,pequenoI
+Piedade de Ponte Nova,Zona da Mata,649.51,14.21,0.52,32.26,7.48,31.98,3.8,71.89,4025,25945.144,pequenoI
+Piedade do Rio Grande,Campo das Vertentes,539.31,20.31,0.95,48.5,8.9,29.13,3.74,39.18,4703,114650.02,pequenoI
+Piedade dos Gerais,Metropolitana de Belo Horizonte,608.04,36.39,0.56,59.47,6.6,22.79,1.61,26.34,4601,27072.182999999997,pequenoI
+Pimenta,Oeste de Minas,927.52,29.62,2.25,42.01,11.3,34.84,3.99,46.35,8231,83991.175,pequenoI
+Pingo-d'Água,Vale do Rio Doce,614.59,16.85,0.61,42.23,11.72,30.58,4.36,56.57,4410,24885.905,pequenoI
+Pintópolis,Norte de Minas,445.71,27.07,0.0,49.02,7.87,23.87,2.74,31.42,7170,32124.966,pequenoI
+Piracema,Oeste de Minas,664.6,25.02,0.72,45.58,6.89,30.46,6.11,44.43,6355,50031.29,pequenoI
+Pirajuba,Triângulo Mineiro/Alto Paranaíba,1389.48,20.28,0.16,18.48,4.44,32.69,14.58,69.09,4614,129898.47,pequenoI
+Piranga,Zona da Mata,485.27,20.29,0.24,45.46,8.78,27.32,3.5,31.23,17161,79011.004,pequenoI
+Piranguçu,Sul/Sudoeste de Minas,759.24,26.74,1.17,30.21,11.14,31.65,10.68,45.02,5180,32940.152,pequenoI
+Piranguinho,Sul/Sudoeste de Minas,833.35,21.48,1.98,22.48,14.35,32.73,14.34,62.28,7993,48859.657,pequenoI
+Pirapetinga,Zona da Mata,896.56,19.4,1.74,10.04,12.41,40.23,15.5,59.05,10351,359657.70700000005,pequenoI
+Pirapora,Norte de Minas,987.18,17.72,1.12,10.98,17.03,42.66,16.52,64.89,52808,1151269.3159999999,medioI
+Piraúba,Zona da Mata,744.43,24.53,1.42,15.13,13.57,28.6,26.66,60.25,10807,73163.37700000001,pequenoI
+Pitangui,Metropolitana de Belo Horizonte,1056.32,16.69,1.95,12.66,13.91,36.58,19.75,63.24,25148,251391.425,pequenoII
+Piumhi,Oeste de Minas,1136.57,27.18,2.67,23.74,20.85,36.27,7.19,58.47,31456,479654.95,pequenoII
+Planura,Triângulo Mineiro/Alto Paranaíba,1095.99,14.92,1.3,24.26,9.93,35.38,20.43,67.54,10300,306877.715,pequenoI
+Poço Fundo,Sul/Sudoeste de Minas,935.47,40.7,3.13,52.78,9.14,22.93,9.28,32.41,15889,149884.89800000002,pequenoI
+Poços de Caldas,Sul/Sudoeste de Minas,1364.19,21.33,2.53,4.61,15.73,46.85,13.26,74.05,151812,3742080.545,medioII
+Pocrane,Vale do Rio Doce,515.74,28.21,0.77,48.58,6.35,30.89,2.77,21.9,8959,44353.587,pequenoI
+Pompéu,Central Mineira,1063.64,16.71,1.92,19.43,14.06,37.35,12.6,54.02,28857,350722.715,pequenoII
+Ponte Nova,Zona da Mata,1064.35,19.18,2.73,7.97,21.77,45.66,9.93,72.57,56530,781595.725,medioI
+Ponto Chique,Norte de Minas,434.04,24.13,0.53,41.04,8.19,37.78,3.18,28.6,3948,22261.816000000003,pequenoI
+Ponto dos Volantes,Jequitinhonha,388.89,19.15,0.35,55.51,6.35,25.19,1.58,21.94,11345,56680.005,pequenoI
+Porteirinha,Norte de Minas,493.26,19.52,1.66,44.48,11.89,29.53,4.29,27.22,37390,170999.802,pequenoII
+Porto Firme,Zona da Mata,502.62,15.81,0.17,46.9,10.38,27.81,4.07,36.88,10400,56233.721,pequenoI
+Poté,Vale do Mucuri,431.79,25.3,0.72,48.21,8.02,26.91,3.95,23.25,15607,76264.11,pequenoI
+Pouso Alegre,Sul/Sudoeste de Minas,1320.38,21.91,3.02,7.12,17.74,41.44,17.91,72.63,129577,3123047.458,medioII
+Pouso Alto,Sul/Sudoeste de Minas,1252.19,24.48,2.38,31.77,10.36,30.76,14.72,50.55,6141,70542.091,pequenoI
+Prados,Campo das Vertentes,750.18,26.47,1.48,21.59,9.68,27.58,28.42,57.4,8330,61829.135,pequenoI
+Prata,Triângulo Mineiro/Alto Paranaíba,1243.08,20.69,1.95,31.59,13.4,29.46,6.52,58.31,25304,541173.3979999999,pequenoII
+Pratápolis,Sul/Sudoeste de Minas,914.3,17.3,1.78,23.65,9.3,38.2,10.16,58.13,8766,103948.53199999999,pequenoI
+Pratinha,Triângulo Mineiro/Alto Paranaíba,948.84,35.91,0.42,59.23,3.12,21.07,5.27,38.55,3261,45657.992,pequenoI
+Presidente Bernardes,Zona da Mata,439.56,23.93,1.01,53.99,6.73,29.05,2.36,36.79,5518,23329.514,pequenoI
+Presidente Juscelino,Central Mineira,514.68,13.46,0.78,51.52,4.21,28.64,1.84,35.48,3908,25302.185,pequenoI
+Presidente Kubitschek,Jequitinhonha,530.23,15.79,0.57,24.63,7.95,42.85,4.17,56.41,2954,14530.068000000001,pequenoI
+Presidente Olegário,Noroeste de Minas,867.04,20.23,1.37,51.41,8.57,27.7,4.06,54.88,18439,224162.80399999997,pequenoI
+Alto Jequitibá,Zona da Mata,660.73,29.8,2.14,60.35,7.65,23.6,2.87,37.3,8263,83174.969,pequenoI
+Prudente de Morais,Metropolitana de Belo Horizonte,817.09,13.98,0.64,6.7,12.1,38.85,19.95,69.43,9573,69359.94,pequenoI
+Quartel Geral,Central Mineira,797.57,14.88,1.04,30.36,6.86,36.98,7.73,60.99,3289,32294.647999999997,pequenoI
+Queluzito,Metropolitana de Belo Horizonte,849.23,34.84,1.01,34.16,8.75,36.77,1.88,48.63,1861,15313.101999999999,pequenoI
+Raposos,Metropolitana de Belo Horizonte,875.54,13.48,0.36,1.11,15.46,51.25,6.3,76.85,15342,65423.043,pequenoI
+Raul Soares,Zona da Mata,668.53,25.56,1.54,40.26,9.16,32.15,5.72,33.77,23683,152035.196,pequenoII
+Recreio,Zona da Mata,846.9,24.39,1.46,14.19,16.34,43.07,7.72,56.94,10272,55992.585,pequenoI
+Reduto,Zona da Mata,767.18,17.59,1.33,51.94,8.65,24.95,4.81,37.79,6563,47484.185,pequenoI
+Resende Costa,Campo das Vertentes,714.65,33.77,1.31,21.41,16.32,24.74,24.07,40.65,10822,70659.452,pequenoI
+Resplendor,Vale do Rio Doce,867.47,25.79,1.3,28.67,14.81,36.16,5.44,48.16,16881,168439.19600000003,pequenoI
+Ressaquinha,Campo das Vertentes,657.98,30.82,1.27,45.5,9.33,30.66,4.01,46.43,4671,83971.269,pequenoI
+Riachinho,Norte de Minas,512.91,24.65,0.15,42.23,10.52,33.21,4.13,26.39,7928,48241.418,pequenoI
+Riacho dos Machados,Norte de Minas,417.68,13.13,1.11,49.54,8.48,25.74,2.8,35.31,9339,33829.531,pequenoI
+Ribeirão das Neves,Metropolitana de Belo Horizonte,820.32,16.85,0.51,1.24,17.26,49.07,9.52,71.88,291880,1733698.8059999999,medioII
+Ribeirão Vermelho,Campo das Vertentes,802.21,14.85,1.87,10.86,17.37,38.53,18.14,69.31,3810,53483.223,pequenoI
+Rio Acima,Metropolitana de Belo Horizonte,938.01,11.9,1.11,9.11,11.14,51.22,5.85,63.26,9090,162995.52,pequenoI
+Rio Casca,Zona da Mata,805.17,14.76,1.77,19.96,13.77,47.22,6.5,64.55,14046,134045.314,pequenoI
+Rio Doce,Zona da Mata,644.09,17.17,1.33,26.55,8.19,41.61,3.01,46.7,2453,16434.38,pequenoI
+Rio do Prado,Jequitinhonha,483.65,22.42,0.83,49.25,7.94,33.09,3.78,38.96,5179,25885.741,pequenoI
+Rio Espera,Zona da Mata,354.96,24.26,0.0,60.84,4.24,22.9,2.55,21.66,6041,24181.585,pequenoI
+Rio Manso,Metropolitana de Belo Horizonte,726.71,33.92,0.96,47.3,7.96,28.0,7.54,38.28,5255,44726.614,pequenoI
+Rio Novo,Zona da Mata,812.19,21.83,1.77,15.67,14.19,41.13,11.45,58.59,8655,57445.602,pequenoI
+Rio Paranaíba,Triângulo Mineiro/Alto Paranaíba,1193.31,26.3,1.5,46.97,8.31,26.29,6.5,49.98,11759,278907.86199999996,pequenoI
+Rio Pardo de Minas,Norte de Minas,470.75,30.87,0.88,52.19,7.7,20.99,13.28,30.96,29033,143132.149,pequenoII
+Rio Piracicaba,Metropolitana de Belo Horizonte,833.75,17.9,2.15,23.19,9.66,34.0,5.82,56.95,14097,432579.653,pequenoI
+Rio Pomba,Zona da Mata,854.98,22.78,3.48,13.51,16.89,38.6,15.36,60.04,16978,142003.286,pequenoI
+Rio Preto,Zona da Mata,790.22,21.77,0.53,22.86,12.84,45.71,3.7,48.63,5243,34731.111000000004,pequenoI
+Rio Vermelho,Metropolitana de Belo Horizonte,444.5,23.37,1.06,56.2,6.91,27.91,1.64,22.41,13548,60398.708,pequenoI
+Ritápolis,Campo das Vertentes,743.7,20.7,0.35,28.71,8.05,35.13,5.53,53.3,4925,30439.077999999998,pequenoI
+Rochedo de Minas,Zona da Mata,696.81,23.4,2.79,20.04,5.79,31.86,34.29,46.33,2116,13591.348999999998,pequenoI
+Rodeiro,Zona da Mata,999.66,16.23,2.35,8.17,10.78,27.44,39.58,75.96,6820,248518.55800000002,pequenoI
+Romaria,Triângulo Mineiro/Alto Paranaíba,1216.76,19.35,0.0,40.87,15.86,23.67,11.95,63.03,3573,83561.545,pequenoI
+Rosário da Limeira,Zona da Mata,667.98,23.63,2.11,37.48,8.53,29.8,9.03,45.62,4230,27969.496,pequenoI
+Rubelita,Norte de Minas,404.91,23.24,0.0,56.48,3.31,29.66,2.55,32.49,7767,31290.924,pequenoI
+Rubim,Jequitinhonha,452.18,23.5,0.74,40.67,13.11,31.71,2.89,28.3,9885,46334.795999999995,pequenoI
+Sabará,Metropolitana de Belo Horizonte,999.71,16.83,0.79,1.65,14.87,52.49,9.85,75.36,125980,1356782.37,medioII
+Sabinópolis,Vale do Rio Doce,591.78,17.27,1.19,43.46,9.92,32.56,3.65,32.77,15555,95947.546,pequenoI
+Sacramento,Triângulo Mineiro/Alto Paranaíba,1034.49,19.92,2.81,25.12,11.75,31.63,16.03,62.31,23718,567953.637,pequenoII
+Salinas,Norte de Minas,714.95,21.22,1.36,25.96,14.78,37.9,8.61,44.04,38926,299272.278,pequenoII
+Salto da Divisa,Jequitinhonha,686.13,19.69,0.54,23.89,14.94,38.62,2.36,37.38,6850,45935.148,pequenoI
+Santa Bárbara,Metropolitana de Belo Horizonte,894.19,16.82,0.87,14.49,12.51,40.65,4.62,65.29,27796,253836.052,pequenoII
+Santa Bárbara do Leste,Vale do Rio Doce,525.18,27.89,2.4,59.96,10.56,18.69,6.24,22.54,7663,37368.703,pequenoI
+Santa Bárbara do Monte Verde,Zona da Mata,661.8,21.41,0.0,42.91,3.52,36.17,1.95,57.41,2776,21721.145,pequenoI
+Santa Bárbara do Tugúrio,Campo das Vertentes,536.04,34.17,8.71,42.03,8.21,31.64,3.36,42.97,4570,28317.762000000002,pequenoI
+Santa Cruz de Minas,Campo das Vertentes,811.84,24.28,3.2,1.42,23.17,38.69,20.82,60.92,7861,43274.837999999996,pequenoI
+Santa Cruz de Salinas,Norte de Minas,242.47,12.05,0.0,68.64,2.72,20.39,1.2,20.66,4385,22490.04,pequenoI
+Santa Cruz do Escalvado,Zona da Mata,525.14,17.9,1.22,55.2,7.45,25.93,2.2,39.11,4992,29204.741,pequenoI
+Santa Efigênia de Minas,Vale do Rio Doce,511.86,22.53,0.39,27.83,11.61,36.1,4.35,32.4,4587,27492.372000000003,pequenoI
+Santa Fé de Minas,Norte de Minas,554.79,17.37,0.52,45.12,7.69,35.33,1.67,30.71,3939,22377.922000000002,pequenoI
+Santa Helena de Minas,Vale do Mucuri,370.1,26.46,0.16,47.94,6.95,32.33,3.21,29.9,6049,23218.11,pequenoI
+Santa Juliana,Triângulo Mineiro/Alto Paranaíba,1240.43,21.23,0.97,32.5,10.68,33.17,13.5,62.18,11287,253145.387,pequenoI
+Santa Luzia,Metropolitana de Belo Horizonte,926.81,15.46,0.59,1.42,15.4,51.6,11.94,72.1,202170,2230851.676,medioII
+Santa Margarida,Zona da Mata,779.82,27.47,0.9,62.81,6.96,23.43,0.85,21.19,15001,154801.216,pequenoI
+Santa Maria de Itabira,Metropolitana de Belo Horizonte,668.43,12.05,0.67,24.17,12.18,37.04,5.19,66.27,10498,101230.23599999999,pequenoI
+Santa Maria do Salto,Jequitinhonha,435.53,18.66,1.97,48.07,11.5,28.73,3.84,30.25,5274,23418.676,pequenoI
+Santa Maria do Suaçuí,Vale do Rio Doce,675.17,27.01,2.36,38.75,13.42,33.82,4.11,26.62,13936,69730.302,pequenoI
+Santana da Vargem,Sul/Sudoeste de Minas,813.53,14.9,1.45,49.45,10.15,27.35,6.93,68.72,7231,89511.39,pequenoI
+Santana de Cataguases,Zona da Mata,668.71,29.59,0.75,26.57,9.62,39.04,14.07,44.38,3622,20580.953,pequenoI
+Santana de Pirapama,Metropolitana de Belo Horizonte,554.37,35.74,0.33,57.58,9.14,25.55,4.1,25.25,7940,58128.1,pequenoI
+Santana do Deserto,Zona da Mata,783.65,21.0,0.77,20.61,7.71,30.08,16.28,72.98,3849,20386.615,pequenoI
+Santana do Garambéu,Campo das Vertentes,787.62,25.34,1.39,51.05,5.09,28.9,3.22,45.16,2226,14406.796999999999,pequenoI
+Santana do Jacaré,Oeste de Minas,681.42,9.6,0.81,45.99,10.2,26.08,11.93,45.69,4556,38551.137,pequenoI
+Santana do Manhuaçu,Zona da Mata,532.42,28.75,1.07,56.97,6.68,26.29,4.85,25.33,8545,50122.969000000005,pequenoI
+Santana do Paraíso,Vale do Rio Doce,866.21,15.27,1.49,6.45,11.99,36.17,21.48,64.95,27235,276056.189,pequenoII
+Santana do Riacho,Metropolitana de Belo Horizonte,777.89,29.58,2.32,17.87,6.6,51.71,2.57,46.0,3960,29998.402000000002,pequenoI
+Santana dos Montes,Metropolitana de Belo Horizonte,463.26,16.49,0.54,54.35,4.51,30.68,2.89,28.52,3812,21761.737,pequenoI
+Santa Rita de Caldas,Sul/Sudoeste de Minas,833.07,39.61,0.69,41.47,8.94,28.41,7.37,32.17,8964,87780.67,pequenoI
+Santa Rita de Jacutinga,Zona da Mata,723.2,22.99,1.71,36.03,9.01,38.48,2.87,42.72,4961,35481.082,pequenoI
+Santa Rita de Minas,Vale do Rio Doce,676.95,18.23,0.17,36.64,10.58,29.88,11.56,50.87,6521,55386.852,pequenoI
+Santa Rita de Ibitipoca,Zona da Mata,724.53,25.55,0.8,49.06,7.65,29.29,5.65,39.09,3580,23819.79,pequenoI
+Santa Rita do Itueto,Vale do Rio Doce,554.0,29.11,0.4,63.25,6.32,20.98,1.5,18.85,5691,41114.864,pequenoI
+Santa Rita do Sapucaí,Sul/Sudoeste de Minas,1073.24,13.53,1.97,14.21,11.84,33.92,18.38,74.52,37404,936233.515,pequenoII
+Santa Rosa da Serra,Triângulo Mineiro/Alto Paranaíba,873.01,26.04,1.17,57.39,3.76,21.15,9.64,43.0,3194,27790.025,pequenoI
+Santa Vitória,Triângulo Mineiro/Alto Paranaíba,1155.58,17.27,3.37,25.85,12.13,37.0,12.86,60.67,17982,315149.167,pequenoI
+Santo Antônio do Amparo,Oeste de Minas,726.47,15.05,1.53,49.63,9.59,28.55,3.22,66.96,17247,104623.864,pequenoI
+Santo Antônio do Aventureiro,Zona da Mata,674.84,33.73,1.11,33.87,12.37,33.75,9.57,41.96,3520,27275.29,pequenoI
+Santo Antônio do Grama,Zona da Mata,581.22,14.07,0.73,37.38,9.06,33.89,3.8,49.19,4077,26091.986,pequenoI
+Santo Antônio do Itambé,Metropolitana de Belo Horizonte,356.75,15.33,0.62,59.45,5.5,25.74,1.01,29.07,4124,19544.201,pequenoI
+Santo Antônio do Jacinto,Jequitinhonha,376.91,18.57,1.02,54.2,9.68,25.0,2.72,19.34,11654,49007.328,pequenoI
+Santo Antônio do Monte,Oeste de Minas,1219.14,24.72,1.58,16.28,23.59,29.3,21.55,51.46,25810,261299.56399999998,pequenoII
+Santo Antônio do Retiro,Norte de Minas,329.95,25.85,0.19,68.74,2.91,18.78,1.68,12.17,6943,27261.057,pequenoI
+Santo Antônio do Rio Abaixo,Metropolitana de Belo Horizonte,594.33,23.59,0.0,36.96,8.48,41.0,1.36,33.1,1772,12023.765,pequenoI
+Santo Hipólito,Central Mineira,686.73,14.68,1.12,43.44,6.68,33.25,8.94,52.65,3220,34308.195,pequenoI
+Santos Dumont,Zona da Mata,949.49,19.22,2.13,8.21,14.62,47.09,10.16,69.89,46132,515483.54600000003,pequenoII
+São Bento Abade,Sul/Sudoeste de Minas,760.59,11.98,1.67,57.44,6.01,18.19,2.65,66.92,4574,34907.9,pequenoI
+São Brás do Suaçuí,Metropolitana de Belo Horizonte,924.37,13.67,0.23,10.0,6.89,44.98,5.96,56.99,3513,41269.962,pequenoI
+São Domingos das Dores,Vale do Rio Doce,665.65,26.53,0.81,58.03,7.56,24.44,2.4,32.63,5408,29448.622000000003,pequenoI
+São Domingos do Prata,Metropolitana de Belo Horizonte,791.28,22.52,1.25,32.0,12.39,34.16,7.48,51.63,17251,121731.345,pequenoI
+São Félix de Minas,Vale do Rio Doce,515.39,14.41,0.0,42.25,6.56,33.11,3.06,23.9,3354,23860.007,pequenoI
+São Francisco,Norte de Minas,599.65,24.77,0.99,42.16,12.2,34.17,3.59,30.43,53462,249262.14899999998,medioI
+São Francisco de Paula,Oeste de Minas,690.45,15.61,0.12,49.81,7.54,22.74,5.36,56.8,6443,50536.015,pequenoI
+São Francisco de Sales,Triângulo Mineiro/Alto Paranaíba,1132.99,18.68,0.97,19.97,8.31,30.22,16.87,70.75,5738,85054.808,pequenoI
+São Francisco do Glória,Zona da Mata,680.51,24.0,4.16,42.05,14.87,30.01,2.63,34.19,5149,30786.842999999997,pequenoI
+São Geraldo,Zona da Mata,734.13,21.51,0.93,24.16,9.94,26.47,24.32,67.25,10202,91073.085,pequenoI
+São Geraldo da Piedade,Vale do Rio Doce,755.76,27.49,2.36,44.87,7.67,31.65,2.1,26.17,4361,22064.474,pequenoI
+São Geraldo do Baixio,Vale do Rio Doce,735.98,21.76,0.4,32.99,6.66,37.08,4.58,35.77,3479,19691.849,pequenoI
+São Gonçalo do Abaeté,Noroeste de Minas,905.48,17.78,1.89,36.97,13.9,31.83,1.43,51.75,6210,119908.524,pequenoI
+São Gonçalo do Pará,Oeste de Minas,794.14,17.05,0.97,13.77,8.74,31.07,30.65,61.8,10366,101819.43699999999,pequenoI
+São Gonçalo do Rio Abaixo,Metropolitana de Belo Horizonte,791.51,13.59,1.4,13.92,7.82,46.36,3.25,59.84,9762,1951642.3190000001,pequenoI
+São Gonçalo do Sapucaí,Sul/Sudoeste de Minas,979.1,23.56,1.13,28.48,12.68,33.16,13.01,63.7,23755,343550.18,pequenoII
+São Gotardo,Triângulo Mineiro/Alto Paranaíba,1321.95,19.96,1.59,41.9,10.86,30.61,4.25,64.87,31669,345614.374,pequenoII
+São João Batista do Glória,Sul/Sudoeste de Minas,1090.47,18.19,2.33,30.0,11.88,35.04,11.88,62.88,6850,78931.0,pequenoI
+São João da Lagoa,Norte de Minas,384.97,23.7,0.43,63.25,4.36,24.1,1.15,19.84,4648,25879.095,pequenoI
+São João da Mata,Sul/Sudoeste de Minas,825.82,29.89,0.23,53.71,6.55,25.78,4.9,29.37,2716,21771.877,pequenoI
+São João da Ponte,Norte de Minas,373.98,18.14,0.0,66.29,6.0,19.75,1.93,24.27,25270,102593.906,pequenoII
+São João das Missões,Norte de Minas,363.2,12.36,0.0,54.82,4.06,30.3,1.29,27.73,11709,38073.769,pequenoI
+São João del Rei,Campo das Vertentes,1109.14,21.88,3.21,6.2,19.72,49.62,10.46,70.32,83977,1025243.181,medioI
+São João do Manhuaçu,Zona da Mata,731.97,40.79,0.25,64.05,9.11,20.54,2.16,37.93,10242,86306.11,pequenoI
+São João do Manteninha,Vale do Rio Doce,684.11,26.13,2.85,20.49,10.13,27.65,25.89,46.4,5179,28472.035,pequenoI
+São João do Oriente,Vale do Rio Doce,710.75,23.4,1.99,24.21,13.12,31.05,18.02,40.4,7874,40940.506,pequenoI
+São João do Pacuí,Norte de Minas,318.61,21.06,0.0,61.45,4.74,24.84,1.58,14.05,4040,18780.221999999998,pequenoI
+São João do Paraíso,Norte de Minas,413.8,18.88,0.43,43.74,9.48,25.02,9.42,36.19,22271,110198.524,pequenoII
+São João Evangelista,Vale do Rio Doce,707.22,14.34,1.65,30.31,12.78,41.5,3.05,35.32,15444,85078.996,pequenoI
+São João Nepomuceno,Zona da Mata,857.31,20.73,3.36,7.23,14.9,32.29,32.64,68.22,24912,226774.961,pequenoII
+São Joaquim de Bicas,Metropolitana de Belo Horizonte,825.26,16.79,0.51,10.69,10.97,37.27,18.54,60.98,23231,385476.532,pequenoII
+São José da Barra,Sul/Sudoeste de Minas,1195.19,18.81,0.68,25.63,7.72,33.99,3.27,61.51,6728,635370.807,pequenoI
+São José da Lapa,Metropolitana de Belo Horizonte,919.33,15.77,1.56,3.91,14.82,45.13,16.17,75.13,19747,357401.565,pequenoI
+São José da Safira,Vale do Rio Doce,553.69,45.39,0.24,25.25,9.21,26.62,1.29,20.41,4075,23259.216,pequenoI
+São José da Varginha,Metropolitana de Belo Horizonte,909.1,18.94,0.89,44.88,3.91,29.68,9.71,57.36,4190,53918.192,pequenoI
+São José do Alegre,Sul/Sudoeste de Minas,682.76,18.02,1.22,30.79,7.04,28.54,19.99,49.21,3996,24468.141,pequenoI
+São José do Divino,Vale do Rio Doce,620.93,17.76,0.9,44.64,8.85,33.71,4.72,27.75,3796,21668.15,pequenoI
+São José do Goiabal,Metropolitana de Belo Horizonte,773.56,17.12,1.64,35.38,13.76,36.0,4.08,57.63,5616,28931.887000000002,pequenoI
+São José do Jacuri,Vale do Rio Doce,447.77,15.99,0.34,52.14,5.32,28.48,3.99,20.81,6541,33450.731,pequenoI
+São José do Mantimento,Zona da Mata,589.43,29.77,1.01,45.12,6.89,34.95,1.91,30.85,2580,17271.853,pequenoI
+São Lourenço,Sul/Sudoeste de Minas,1166.57,24.09,5.18,3.67,20.03,51.04,8.15,66.66,41320,518953.708,pequenoII
+São Miguel do Anta,Zona da Mata,547.2,23.75,0.9,56.68,5.61,25.58,3.63,29.12,6731,41455.422,pequenoI
+São Pedro da União,Sul/Sudoeste de Minas,714.47,28.91,1.67,68.63,5.4,18.77,4.23,25.4,5007,53080.850999999995,pequenoI
+São Pedro dos Ferros,Zona da Mata,706.83,23.32,0.58,28.84,16.1,32.62,12.39,56.34,8314,66688.604,pequenoI
+São Pedro do Suaçuí,Vale do Rio Doce,629.53,32.84,0.62,43.27,7.23,35.26,4.47,29.0,5534,29796.109,pequenoI
+São Romão,Norte de Minas,493.4,29.24,0.54,42.63,11.18,32.44,3.23,35.42,10205,50258.806,pequenoI
+São Roque de Minas,Oeste de Minas,965.06,37.45,1.08,41.39,11.08,30.71,7.43,36.98,6621,84130.54,pequenoI
+São Sebastião da Bela Vista,Sul/Sudoeste de Minas,924.33,18.42,2.24,36.32,12.67,27.67,15.23,64.53,4922,56425.901,pequenoI
+São Sebastião da Vargem Alegre,Zona da Mata,626.1,28.13,0.0,49.37,5.2,32.35,2.47,35.05,2797,37939.877,pequenoI
+São Sebastião do Anta,Vale do Rio Doce,530.27,24.5,0.7,61.17,9.65,20.52,1.39,30.35,5739,30671.254,pequenoI
+São Sebastião do Maranhão,Vale do Rio Doce,441.91,23.96,0.31,58.86,5.44,22.51,3.82,16.75,10608,73258.383,pequenoI
+São Sebastião do Oeste,Oeste de Minas,812.33,20.76,1.65,36.36,3.29,20.12,23.37,56.76,5756,167712.015,pequenoI
+São Sebastião do Paraíso,Sul/Sudoeste de Minas,1173.64,18.27,2.42,15.48,14.31,37.8,17.98,71.15,64629,1061147.955,medioI
+São Sebastião do Rio Preto,Metropolitana de Belo Horizonte,578.6,19.62,1.47,32.36,5.96,48.29,2.41,43.88,1606,12066.451000000001,pequenoI
+São Sebastião do Rio Verde,Sul/Sudoeste de Minas,710.65,25.8,0.44,27.83,7.42,35.93,17.75,57.47,2107,16381.17,pequenoI
+São Tiago,Campo das Vertentes,742.42,20.83,0.94,32.55,13.94,27.73,13.0,53.57,10532,73095.622,pequenoI
+São Tomás de Aquino,Sul/Sudoeste de Minas,843.39,23.87,0.12,57.77,7.88,21.47,7.34,47.49,7058,82453.65400000001,pequenoI
+São Thomé das Letras,Sul/Sudoeste de Minas,648.83,24.84,1.75,23.58,8.72,25.52,4.32,48.34,6576,54557.814000000006,pequenoI
+São Vicente de Minas,Sul/Sudoeste de Minas,831.29,20.23,2.99,29.55,9.44,37.8,14.6,56.82,6993,67188.428,pequenoI
+Sapucaí-Mirim,Sul/Sudoeste de Minas,799.69,18.26,1.3,19.68,8.24,35.22,16.72,50.49,6221,69173.25200000001,pequenoI
+Sardoá,Vale do Rio Doce,517.31,12.14,3.54,35.3,10.86,32.64,2.36,27.89,5558,34253.358,pequenoI
+Sarzedo,Metropolitana de Belo Horizonte,1091.06,18.33,1.31,4.61,11.0,45.24,16.8,70.05,25765,394851.727,pequenoII
+Setubinha,Vale do Mucuri,367.22,9.25,0.39,66.21,3.8,19.18,2.15,22.31,10854,40246.823,pequenoI
+Sem-Peixe,Zona da Mata,410.71,18.55,0.33,62.95,3.88,23.11,1.27,25.89,2842,14855.258999999998,pequenoI
+Senador Amaral,Sul/Sudoeste de Minas,604.27,40.11,1.41,69.54,7.9,17.13,1.61,22.05,5210,34350.821,pequenoI
+Senador Cortes,Zona da Mata,630.75,17.4,1.78,28.03,8.07,31.96,24.08,52.13,1986,12532.386999999999,pequenoI
+Senador Firmino,Zona da Mata,624.51,23.06,0.9,33.41,8.17,34.57,7.91,41.49,7177,43002.922,pequenoI
+Senador José Bento,Sul/Sudoeste de Minas,563.11,28.13,0.0,45.36,5.65,24.48,16.68,29.4,1860,16109.455,pequenoI
+Senador Modestino Gonçalves,Jequitinhonha,332.53,9.57,0.49,54.54,7.99,29.46,2.94,23.53,4530,25644.097,pequenoI
+Senhora de Oliveira,Zona da Mata,545.3,16.22,0.56,48.77,8.41,27.28,2.23,35.49,5659,30662.667999999998,pequenoI
+Senhora do Porto,Vale do Rio Doce,443.45,20.64,0.72,50.57,3.41,29.01,0.49,24.37,3489,18637.323,pequenoI
+Senhora dos Remédios,Campo das Vertentes,342.64,25.9,0.17,59.17,9.25,22.38,2.13,26.78,10186,46222.712999999996,pequenoI
+Sericita,Zona da Mata,529.29,26.24,1.97,66.66,8.27,19.67,0.62,19.37,7122,34653.431000000004,pequenoI
+Seritinga,Sul/Sudoeste de Minas,681.09,17.56,1.84,33.56,7.51,36.75,9.4,47.69,1787,15837.241000000002,pequenoI
+Serra Azul de Minas,Metropolitana de Belo Horizonte,474.31,36.69,0.88,45.59,4.75,32.72,2.14,13.04,4207,18492.707,pequenoI
+Serra da Saudade,Central Mineira,794.37,9.33,1.22,41.03,5.87,51.79,0.0,68.4,815,10484.383,pequenoI
+Serra dos Aimorés,Vale do Mucuri,907.97,19.22,0.87,30.54,13.16,34.07,11.99,52.87,8387,73728.046,pequenoI
+Serra do Salitre,Triângulo Mineiro/Alto Paranaíba,1019.7,19.76,0.61,55.38,9.8,23.22,3.49,54.2,10533,164124.131,pequenoI
+Serrania,Sul/Sudoeste de Minas,778.39,13.75,1.46,48.91,7.89,25.29,7.81,65.2,7488,85933.609,pequenoI
+Serranópolis de Minas,Norte de Minas,488.05,14.06,0.8,55.7,5.96,28.82,3.84,26.63,4419,18091.19,pequenoI
+Serranos,Sul/Sudoeste de Minas,736.57,13.21,1.88,40.86,8.24,34.31,6.11,40.97,1982,15059.925,pequenoI
+Serro,Metropolitana de Belo Horizonte,820.99,17.83,3.26,35.35,9.38,39.95,2.3,37.82,20680,120685.21800000001,pequenoII
+Sete Lagoas,Metropolitana de Belo Horizonte,1233.98,18.05,2.48,3.05,16.94,45.91,20.35,69.13,213087,5820627.535,medioII
+Silveirânia,Zona da Mata,688.62,23.07,0.39,40.18,5.96,37.82,5.18,48.73,2189,13265.425,pequenoI
+Silvianópolis,Sul/Sudoeste de Minas,953.95,27.81,0.63,43.11,7.11,25.54,16.57,48.44,5984,59365.246,pequenoI
+Simão Pereira,Zona da Mata,788.71,13.27,3.93,19.98,7.12,45.19,5.05,71.05,2537,30813.347,pequenoI
+Simonésia,Zona da Mata,569.51,27.37,1.46,67.26,7.36,18.33,2.25,18.65,18255,99657.42300000001,pequenoI
+Sobrália,Vale do Rio Doce,567.33,31.14,0.68,37.38,10.39,36.61,5.3,32.31,5827,29299.276,pequenoI
+Soledade de Minas,Sul/Sudoeste de Minas,723.18,27.85,0.35,26.29,14.38,34.58,12.24,53.99,5590,30646.869,pequenoI
+Tabuleiro,Zona da Mata,753.09,27.02,1.75,35.96,10.45,35.66,7.11,48.98,4075,25071.801,pequenoI
+Taiobeiras,Norte de Minas,733.11,23.23,2.22,29.31,18.09,34.59,8.41,35.01,30730,202903.21300000002,pequenoII
+Taparuba,Vale do Rio Doce,493.44,20.55,0.41,57.7,4.56,23.22,4.46,18.14,3133,18003.092,pequenoI
+Tapira,Triângulo Mineiro/Alto Paranaíba,1303.12,28.19,0.49,36.27,6.96,28.95,1.5,42.81,4101,249698.168,pequenoI
+Tapiraí,Oeste de Minas,710.34,34.93,0.88,57.52,5.47,24.79,1.82,39.64,1871,22575.436,pequenoI
+Taquaraçu de Minas,Metropolitana de Belo Horizonte,629.88,22.67,0.49,33.8,5.97,32.78,7.29,36.62,3770,32463.275,pequenoI
+Tarumirim,Vale do Rio Doce,577.48,25.5,1.24,38.4,9.11,32.89,3.68,32.42,14200,73423.49,pequenoI
+Teixeiras,Zona da Mata,975.66,24.22,1.82,22.3,10.41,46.37,5.85,48.32,11284,68688.027,pequenoI
+Teófilo Otoni,Vale do Mucuri,1104.66,22.06,2.15,10.67,21.42,47.16,6.17,57.25,133143,1465714.716,medioII
+Timóteo,Vale do Rio Doce,1293.9,16.32,2.0,1.75,15.3,44.2,22.64,74.84,81115,2036766.112,medioI
+Tiradentes,Campo das Vertentes,1257.39,28.92,4.7,6.57,13.0,53.75,11.44,61.3,6877,91017.799,pequenoI
+Tiros,Triângulo Mineiro/Alto Paranaíba,987.44,30.82,1.13,42.32,7.92,26.56,4.21,34.68,6857,85606.94300000001,pequenoI
+Tocantins,Zona da Mata,816.75,24.35,1.55,16.41,12.98,32.5,23.45,57.19,15744,147930.936,pequenoI
+Tocos do Moji,Sul/Sudoeste de Minas,599.45,55.81,2.33,65.9,5.2,13.41,10.47,25.84,3950,28060.642000000003,pequenoI
+Toledo,Sul/Sudoeste de Minas,642.22,41.13,0.62,50.35,9.74,20.57,9.59,23.24,5728,29008.096,pequenoI
+Tombos,Zona da Mata,855.18,25.94,2.34,26.44,16.47,38.62,4.54,47.79,9512,62332.578,pequenoI
+Três Corações,Sul/Sudoeste de Minas,1245.57,17.55,2.32,12.02,17.82,42.41,15.58,68.83,71897,1508905.365,medioI
+Três Marias,Central Mineira,1135.9,17.29,1.31,14.43,14.37,41.47,11.42,66.45,28231,983447.401,pequenoII
+Três Pontas,Sul/Sudoeste de Minas,1055.69,16.96,2.78,31.21,14.56,34.37,12.01,71.14,53564,662628.555,medioI
+Tumiritinga,Vale do Rio Doce,612.88,22.17,0.73,32.58,9.16,36.04,8.12,31.75,6279,30538.446,pequenoI
+Tupaciguara,Triângulo Mineiro/Alto Paranaíba,1068.88,24.34,3.38,25.54,14.26,38.79,6.53,53.63,23953,282632.689,pequenoII
+Turmalina,Jequitinhonha,728.39,14.35,3.65,30.22,12.22,34.71,11.7,47.32,17975,138627.983,pequenoI
+Turvolândia,Sul/Sudoeste de Minas,797.98,33.64,1.33,55.0,7.28,20.31,9.91,46.63,4619,47352.809,pequenoI
+Ubá,Zona da Mata,1083.68,17.89,2.42,2.8,17.45,34.98,28.53,73.07,101130,2030568.8180000002,medioII
+Ubaí,Norte de Minas,407.29,16.9,0.97,47.28,8.37,30.59,4.37,16.39,11638,47358.247,pequenoI
+Ubaporanga,Vale do Rio Doce,535.08,32.77,1.85,49.09,11.6,24.85,5.44,39.55,12025,59873.78599999999,pequenoI
+Uberaba,Triângulo Mineiro/Alto Paranaíba,1467.59,20.72,2.3,5.16,16.48,49.34,12.79,72.97,292644,7299719.536,medioII
+Uberlândia,Triângulo Mineiro/Alto Paranaíba,1501.35,20.35,3.12,3.77,17.82,50.67,10.23,71.42,600747,18950577.499,grandeI
+Umburatiba,Vale do Mucuri,638.18,21.62,2.0,35.75,10.73,43.3,1.63,36.23,2687,17087.194,pequenoI
+Unaí,Noroeste de Minas,1104.26,21.99,2.96,22.13,17.67,41.12,5.77,52.0,76546,1330067.636,medioI
+União de Minas,Triângulo Mineiro/Alto Paranaíba,931.66,22.67,0.55,48.03,7.78,29.63,5.35,57.88,4336,74834.617,pequenoI
+Uruana de Minas,Noroeste de Minas,585.32,13.92,0.83,43.53,6.75,30.37,5.59,36.25,3156,26122.652000000002,pequenoI
+Urucânia,Zona da Mata,669.43,11.46,0.29,35.41,9.61,30.0,13.79,67.02,10273,98907.043,pequenoI
+Urucuia,Norte de Minas,518.7,18.56,0.46,41.71,12.83,29.78,2.09,26.17,13539,60820.09,pequenoI
+Vargem Alegre,Vale do Rio Doce,712.12,25.61,1.22,31.58,12.79,35.32,10.96,39.67,6435,34327.2,pequenoI
+Vargem Bonita,Oeste de Minas,721.37,26.56,0.94,51.13,5.51,28.48,4.87,44.16,2156,23316.725,pequenoI
+Vargem Grande do Rio Pardo,Norte de Minas,402.11,9.32,0.34,43.15,9.48,28.76,5.77,27.62,4733,21342.216,pequenoI
+Varginha,Sul/Sudoeste de Minas,1382.27,17.49,2.88,5.94,18.38,46.41,15.51,75.86,122584,3234145.348,medioII
+Varjão de Minas,Noroeste de Minas,939.85,9.03,0.77,43.68,8.9,24.47,16.21,73.62,5983,86348.832,pequenoI
+Várzea da Palma,Norte de Minas,750.99,18.05,0.63,22.32,14.13,30.09,22.16,58.46,35740,552174.91,pequenoII
+Varzelândia,Norte de Minas,399.1,20.5,0.99,52.4,10.06,27.25,1.76,30.92,19056,79341.52799999999,pequenoI
+Vazante,Noroeste de Minas,1011.21,19.77,1.93,22.53,10.2,37.43,8.46,58.34,19596,340207.024,pequenoI
+Verdelândia,Norte de Minas,486.72,10.69,0.0,54.05,7.46,29.7,1.64,37.55,8294,48770.404,pequenoI
+Veredinha,Jequitinhonha,385.61,10.46,0.62,47.72,9.4,25.54,4.35,34.75,5538,39435.595,pequenoI
+Veríssimo,Triângulo Mineiro/Alto Paranaíba,963.8,23.78,1.0,37.9,5.8,26.6,19.22,59.51,3254,70057.848,pequenoI
+Vermelho Novo,Zona da Mata,500.62,33.58,0.16,68.9,3.59,20.07,2.56,18.3,4684,24795.333,pequenoI
+Vespasiano,Metropolitana de Belo Horizonte,912.1,15.11,0.46,0.93,15.27,50.67,10.67,75.97,104081,1561162.1609999998,medioII
+Viçosa,Zona da Mata,1306.37,16.58,3.9,8.19,15.15,56.38,6.12,66.24,71976,797394.505,medioI
+Vieiras,Zona da Mata,623.71,29.09,1.91,46.3,6.65,33.35,4.46,44.97,3731,26450.882999999998,pequenoI
+Mathias Lobato,Vale do Rio Doce,781.71,11.19,1.86,28.32,6.87,48.76,2.79,25.67,3370,18300.487,pequenoI
+Virgem da Lapa,Jequitinhonha,462.31,24.63,1.08,49.88,6.19,29.12,4.36,35.03,13604,56939.738,pequenoI
+Virgínia,Sul/Sudoeste de Minas,623.13,30.91,1.03,43.0,7.92,27.31,14.88,33.09,8566,65983.276,pequenoI
+Virginópolis,Vale do Rio Doce,721.13,18.39,1.87,31.57,10.21,39.09,3.61,39.19,10473,66415.344,pequenoI
+Virgolândia,Vale do Rio Doce,479.07,21.97,0.54,46.06,6.85,34.79,1.84,16.64,5645,27528.023999999998,pequenoI
+Visconde do Rio Branco,Zona da Mata,903.09,16.07,2.75,7.56,13.76,40.39,28.69,71.99,37864,628151.5179999999,pequenoII
+Volta Grande,Zona da Mata,892.39,11.72,0.12,20.27,8.53,46.02,6.75,66.66,5061,103455.271,pequenoI
+Wenceslau Braz,Sul/Sudoeste de Minas,771.03,19.06,0.0,25.92,5.63,28.38,24.92,59.81,2545,15518.401000000002,pequenoI
